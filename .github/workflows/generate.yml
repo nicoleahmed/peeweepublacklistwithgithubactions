@@ -27,14 +27,7 @@ jobs:
           fi
 
           if [ -f uBlacklist.txt ]; then rm -v uBlacklist.txt; fi
-          cat vendor/cobaltdisco/Google-Chinese-Results-Blocklist/uBlacklist_subscription.txt >> uBlacklist.txt
-          echo >> uBlacklist.txt
-          cat vendor/MisakaMikoto-35c5/ublacklist-rules/content-farm.txt >> uBlacklist.txt
-          echo >> uBlacklist.txt
-          cat vendor/Aierklk/uBlacklist-blacklist/blacklist.txt >> uBlacklist.txt
-          echo >> uBlacklist.txt
-          cat vendor/liubiantao/uBlacklist-Websites/uBlacklist.txt >> uBlacklist.txt
-          echo >> uBlacklist.txt
+          cat vendor.list | xargs -i sh -c 'cat {} >> uBlacklist.txt ; echo  >> uBlacklist.txt'
           ./removeDuplicateLines.py && mv -v output.txt uBlacklist.txt
           git add uBlacklist.txt
           if [[ $(git diff HEAD uBlacklist.txt) ]]; then
