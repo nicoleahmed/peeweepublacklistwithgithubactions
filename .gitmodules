@@ -1,0 +1,12 @@
+[submodule "vendor/Aierklk/uBlacklist-blacklist"]
+	path = vendor/Aierklk/uBlacklist-blacklist
+	url = https://github.com/Aierklk/uBlacklist-blacklist.git
+[submodule "vendor/cobaltdisco/Google-Chinese-Results-Blocklist"]
+	path = vendor/cobaltdisco/Google-Chinese-Results-Blocklist
+	url = https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist.git
+[submodule "vendor/MisakaMikoto-35c5/ublacklist-rules"]
+	path = vendor/MisakaMikoto-35c5/ublacklist-rules
+	url = https://github.com/MisakaMikoto-35c5/ublacklist-rules.git
+[submodule "vendor/liubiantao/uBlacklist-Websites"]
+	path = vendor/liubiantao/uBlacklist-Websites
+	url = https://github.com/liubiantao/uBlacklist-Websites.git
