@@ -247,6 +247,7 @@
 *://*.8090dys.com/*
 *://*.80zhan.com/*
 *://*.81-m.com/*
+*://*.8107778.com/*
 *://*.813zszx.com/*
 *://*.81819.download/*
 *://*.818497.39164.com/*
@@ -265,6 +266,7 @@
 *://*.87nmg.com/*
 *://*.8801w.com/*
 *://*.880688.com/*
+*://*.88832828.com/*
 *://*.888777.xyz/*
 *://*.8923.download/*
 *://*.8a.hk/*
@@ -641,6 +643,7 @@
 *://*.cyhs888.com/*
 *://*.cyhtzd.com/*
 *://*.czmuhe.com/*
+*://*.czokzz.com/*
 *://*.czoxhg.com/*
 *://*.da-quan.net/*
 *://*.dacongyun.com/*
@@ -744,6 +747,7 @@
 *://*.dxdlw.com/*
 *://*.dxssck.com/*
 *://*.dxxc.com/*
+*://*.dxxdwh.com/*
 *://*.dy1991.com/*
 *://*.dygkw.me/*
 *://*.dyzdy.cn/*
@@ -843,9 +847,11 @@
 *://*.foreverglory.me/*
 *://*.free-lunwen.com/*
 *://*.free699.com/*
+*://*.freeguo.com/*
 *://*.freesion.com/*
 *://*.freetribe.me/*
 *://*.freewechat.com/*
+*://*.fridayboy.cn/*
 *://*.friga.de/*
 *://*.frong.net/*
 *://*.frse.cn/*
@@ -1066,6 +1072,7 @@
 *://*.huiyi8.com/*
 *://*.huo123.cc/*
 *://*.huolalaweb.com/*
+*://*.huolicf.com/*
 *://*.huyue.vip/*
 *://*.hwtzlc.com/*
 *://*.hxfldsz.com/*
@@ -1203,6 +1210,7 @@
 *://*.jianyi80.com/*
 *://*.jiayaozb.com/*
 *://*.jigao616.com/*
+*://*.jijisf.com/*
 *://*.jikeqi.com/*
 *://*.jiloc.com/*
 *://*.jimengli.com/*
@@ -1267,6 +1275,7 @@
 *://*.jzxfz.com/*
 *://*.k3dhw.com/*
 *://*.k3m8dr.cn/*
+*://*.kaba888.com/*
 *://*.kabaresta.com/*
 *://*.kaicen.cn/*
 *://*.kaifa99.com/*
@@ -1473,6 +1482,7 @@
 *://*.mobilephoneslive.com/*
 *://*.modb.pro/*
 *://*.mofish.work/*
+*://*.mokegod.com/*
 *://*.moktime.com/*
 *://*.montepozuelo.com/*
 *://*.mos86.com/*
@@ -1546,6 +1556,7 @@
 *://*.njrbk.com/*
 *://*.njrqhd.com/*
 *://*.njxhmbj.com/*
+*://*.njxiezilou.com/*
 *://*.njyyjsxx.com/*
 *://*.njzrc.com/*
 *://*.nmhjw.cn/*
@@ -1709,6 +1720,7 @@
 *://*.qedev.com/*
 *://*.qhddns.com/*
 *://*.qiandaohutrip.cn/*
+*://*.qiangjiks.com/*
 *://*.qiansw.com/*
 *://*.qianzhaopeng.com/*
 *://*.qingkeyy.com/*
@@ -2200,6 +2212,7 @@
 *://*.wbmob.com/*
 *://*.wccmjx.com/*
 *://*.wd.haosou.com/*
+*://*.wdzaixian.com/*
 *://*.web.mybnb.tw/*
 *://*.webglstudy.com/*
 *://*.webhek.com/*
@@ -2463,6 +2476,7 @@
 *://*.yxgjgc.com/*
 *://*.yxjcfjzz.com/*
 *://*.yxjdcc.com/*
+*://*.yxtad.com/*
 *://*.yxuxjt.com/*
 *://*.yycmall.com/*
 *://*.yysit.com/*
