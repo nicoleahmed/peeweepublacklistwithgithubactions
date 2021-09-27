@@ -85,6 +85,7 @@
 *://*.1mpi.com/*
 *://*.1pyy.com/*
 *://*.1r1g.com/*
+*://*.1w1y.com/*
 *://*.1wfd.com/*
 *://*.20122011.org/*
 *://*.2020win7.com/*
@@ -524,6 +525,7 @@
 *://*.cdayjc.com/*
 *://*.cdbao.ex5.ipv6.xjklmy.com/*
 *://*.cdbgp.com/*
+*://*.cdbqgzdl.com/*
 *://*.cdcaise.com/*
 *://*.cdjymodel.com/*
 *://*.cdmana.com/*
@@ -807,6 +809,7 @@
 *://*.esihui.com/*
 *://*.essadix.nl/*
 *://*.ev-az.com/*
+*://*.evatsai.com/*
 *://*.evdbus.com/*
 *://*.evget.com/*
 *://*.exceljcw.com/*
@@ -1644,12 +1647,14 @@
 *://*.oschina.net/*
 *://*.ose.cc/*
 *://*.osgeo.cn/*
+*://*.oslins.cn/*
 *://*.ost-us.com/*
 *://*.otmbsy.com/*
 *://*.otrjobmatch.com/*
 *://*.ouiot.com/*
 *://*.oumujj.com/*
 *://*.ourjs.com/*
+*://*.ouwl5b.cn/*
 *://*.ouyiyule8.com/*
 *://*.ov333.com/*
 *://*.overcoder.net/*
@@ -1918,6 +1923,7 @@
 *://*.shuzhiduo.com/*
 *://*.shve.org/*
 *://*.shxy888.com/*
+*://*.shyjyg.com/*
 *://*.shzewang.com/*
 *://*.sijiyoumei.com/*
 *://*.simonmarketingagency.com/*
@@ -2326,6 +2332,7 @@
 *://*.www3.udpdu.com/*
 *://*.wwwbuild.net/*
 *://*.wxchunfu.com/*
+*://*.wxcjjk.com/*
 *://*.wxluckly.com/*
 *://*.wxqns.com/*
 *://*.wxtdbxgzp.com/*
