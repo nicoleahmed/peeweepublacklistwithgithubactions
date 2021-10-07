@@ -648,6 +648,7 @@
 *://*.jalsys.com/*
 *://*.javaer101.com/*
 *://*.javajia.com/*
+*://*.javaroad.cn/*
 *://*.javascriptc.com/*
 *://*.javashuo.com/*
 *://*.jayunqi.com/*
@@ -1045,6 +1046,7 @@
 *://*.sijintuan.com/*
 *://*.simonmarketingagency.com/*
 *://*.simplesend.com/*
+*://*.singletorino.it/*
 *://*.sirdesmonddesilvaqc.com/*
 *://*.sitevalue.net/*
 *://*.sj.itdqs.com/*
@@ -1284,6 +1286,7 @@
 *://*.weivb.com/*
 *://*.weixineda.com/*
 *://*.weixingon.com/*
+*://*.wenda123.org/*
 *://*.wenku1.com/*
 *://*.wenshanok.com/*
 *://*.wenshuw.com/*
@@ -1468,10 +1471,10 @@
 *://gcdn.grapecity.com.cn/*
 *://githubmemory.com/*
 *://issuehunt.io/*
-*://ituneslpgraphic.singletorino.it/*
 *://passion-meeting.site/*
 *://search.zonealarm.com/*
 *://www.aliyun.com/ysc/*
+*://www.cnpython.com/qa/*
 *://www.cxyzjd.com/*
 *://www.hmldds.com/*
 *://www.huaweicloud.com/articles/*
