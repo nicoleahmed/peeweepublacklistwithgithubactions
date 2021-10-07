@@ -373,6 +373,7 @@
 *://*.ddoca.com/*
 *://*.deal4investments.com/*
 *://*.debug8.com/*
+*://*.debugcn.com/*
 *://*.deiniu.com/*
 *://*.desertstreams-surprise.com/*
 *://*.designarch.cz/*
@@ -517,6 +518,7 @@
 *://*.gufen138.com/*
 *://*.guilinshouji.com/*
 *://*.guiyangjia.com/*
+*://*.gushiciku.cn/*
 *://*.guzhifa.com/*
 *://*.gxy995.com/*
 *://*.gz-has.com/*
@@ -610,14 +612,17 @@
 *://*.ishenping.com/*
 *://*.isky.ltd/*
 *://*.issue.life/*
+*://*.it-swarm.cn/*
 *://*.it-swarm.dev/*
 *://*.it-swarm.net/*
 *://*.it1352.com/*
 *://*.itbiancheng.com/*
 *://*.itdaan.com/*
+*://*.iter01.com/*
 *://*.itnewes.com/*
 *://*.itranslater.com/*
 *://*.itread01.com/*
+*://*.itw01.com/*
 *://*.iuham.com/*
 *://*.ixianzong.com/*
 *://*.iyangzhi.com/*
@@ -669,6 +674,7 @@
 *://*.k3m8dr.cn/*
 *://*.kabaresta.com/*
 *://*.kaicen.cn/*
+*://*.kaifa99.com/*
 *://*.kaitianqi.com/*
 *://*.kanduanxin.com/*
 *://*.kaoyu.org/*
