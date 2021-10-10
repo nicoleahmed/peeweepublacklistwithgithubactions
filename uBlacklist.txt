@@ -1504,12 +1504,6 @@
 *://*.zzjwcf.com/*
 *://*.zzvips.com/*
 *://*.zzyyo.com/*
-*://*/?s=*
-*://*/cha.php?s=*
-*://*/list.php?s=*
-*://*/so.php
-*://*/so.php?s=*
-*://*/so/*
 *://118.193.38.103/*
 *://cloud.tencent.com/developer/*
 *://cloud.tencent.com/developer/information/*
@@ -1533,5 +1527,3 @@
 *://yq.aliyun.com/*
 *://zhidao.baidu.com/index/?word=*
 *://zhidao.baidu.com/search?*
-title/.* - 小.(百科|知识)网/
-title/小.(百科|知识)网/
