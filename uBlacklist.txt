@@ -1699,5 +1699,5 @@
 *://yq.aliyun.com/*
 *://zhidao.baidu.com/index/?word=*
 *://zhidao.baidu.com/search?*
-title/.* - 小.(百科|知识)网/
-title/小.(百科|知识)网/
+title/^.*[ ]-[ ]小.(百科|知识)网$/
+title/^小.(百科|知识)网$/
