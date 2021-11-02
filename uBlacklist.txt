@@ -85,6 +85,7 @@
 *://*.218434.com/*
 *://*.218435.com/*
 *://*.218462.com/*
+*://*.218464.com/*
 *://*.218471.com/*
 *://*.218475.com/*
 *://*.218495.com/*
@@ -187,6 +188,7 @@
 *://*.51zixue.net/*
 *://*.520bdy.com/*
 *://*.520mwx.com/*
+*://*.5228msc.com/*
 *://*.52bpb.com/*
 *://*.52fuqu.com/*
 *://*.52help.net/*
@@ -379,6 +381,7 @@
 *://*.asp.cx/*
 *://*.asspunk.iteye.com/*
 *://*.atamaldives.net/*
+*://*.athabasca-foto.com/*
 *://*.atwhcb.com/*
 *://*.austrade-ch.com/*
 *://*.avdll.com/*
@@ -645,6 +648,7 @@
 *://*.custompatches4u.com/*
 *://*.cxjchs.com/*
 *://*.cxjygj.com/*
+*://*.cxybb.com/*
 *://*.cxybl.com/*
 *://*.cxymm.net/*
 *://*.cxyzjd.com/*
@@ -727,6 +731,7 @@
 *://*.dlpzj.com/*
 *://*.dmaku.com/*
 *://*.dmjtxt.com/*
+*://*.dmois.com/*
 *://*.dncwin10.com/*
 *://*.docsxyz.com/*
 *://*.doczj.com/*
@@ -958,6 +963,7 @@
 *://*.guangzhouecu.com/*
 *://*.gufen138.com/*
 *://*.guidedbirding.com/*
+*://*.guilinliwu.com/*
 *://*.guilinshouji.com/*
 *://*.guiyangjia.com/*
 *://*.guochangxi.com/*
@@ -1017,6 +1023,7 @@
 *://*.hbpepipe.com/*
 *://*.hbzfgs.com/*
 *://*.hcoj.uonwt.download/*
+*://*.hcpcm.net/*
 *://*.hd800.net/*
 *://*.hdgangqiu.com/*
 *://*.hdnkm.com/*
@@ -1231,6 +1238,7 @@
 *://*.jc-tourisme.com/*
 *://*.jc2182.com/*
 *://*.jccreate.com/*
+*://*.jcdi.cn/*
 *://*.jcwkkj.com/*
 *://*.jeepshoe.net/*
 *://*.jeepxie.net/*
@@ -1307,6 +1315,7 @@
 *://*.jtdz-solenoids.com/*
 *://*.jun365.net/*
 *://*.jusoso.com/*
+*://*.jxjdj.com/*
 *://*.jxkbnm.com/*
 *://*.jxsfgg.com/*
 *://*.jxyxtx.com/*
@@ -1698,6 +1707,7 @@
 *://*.perfcode.com/*
 *://*.persarea.com/*
 *://*.pexim.vn/*
+*://*.pgy-ask.com/*
 *://*.pharmagolfchallenge.it/*
 *://*.photocnc.net/*
 *://*.photoplayhouse.com/*
@@ -1899,6 +1909,7 @@
 *://*.seduloustechnologies.com/*
 *://*.seedsbuddy.com/*
 *://*.seemk.com/*
+*://*.semicolonworld.com/*
 *://*.semlinker.com/*
 *://*.seotool99.com/*
 *://*.seozhijia.net/*
@@ -1933,6 +1944,7 @@
 *://*.shouhuola.com/*
 *://*.shouji211.com/*
 *://*.shouyouzhijia.net/*
+*://*.shqibang.com/*
 *://*.shsjing.com/*
 *://*.shtianbao.com/*
 *://*.shtml.net/*
@@ -2377,6 +2389,7 @@
 *://*.xdrn.net/*
 *://*.xdsucai.com/*
 *://*.xgcs98.com/*
+*://*.xhhuanjing.com/*
 *://*.xhuojia.com/*
 *://*.xhzy.com/*
 *://*.xianfanglei.com/*
@@ -2435,6 +2448,7 @@
 *://*.xuetimes.com/*
 *://*.xuie.pw/*
 *://*.xuyich.com/*
+*://*.xxfseo.com/*
 *://*.xxqnt.com/*
 *://*.xxwmm.com/*
 *://*.xyubing.com/*
@@ -2455,6 +2469,7 @@
 *://*.ycltgy.com/*
 *://*.ycluomen.com/*
 *://*.ycrlt.com/*
+*://*.ycycbaby.com/*
 *://*.ydxyw.cn/*
 *://*.ydzgw.com/*
 *://*.yeeed.com/*
@@ -2551,6 +2566,7 @@
 *://*.yzyczxx.com/*
 *://*.z3z4.com/*
 *://*.z7yule.cn/*
+*://*.zaizaofa.com/*
 *://*.zalou.cn/*
 *://*.zambj.com/*
 *://*.zaokeji.net/*
