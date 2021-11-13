@@ -792,6 +792,7 @@
 *://*.edoou.com/*
 *://*.edwardianjewellery.com/*
 *://*.eeq8.com/*
+*://*.eferrit.com/*
 *://*.efwm.qswrj.download/*
 *://*.egfoem.com/*
 *://*.ek162.com/*
@@ -1252,6 +1253,7 @@
 *://*.jc2182.com/*
 *://*.jccreate.com/*
 *://*.jcdi.cn/*
+*://*.jcodecraeer.com/*
 *://*.jcwkkj.com/*
 *://*.jeepshoe.net/*
 *://*.jeepxie.net/*
