@@ -781,6 +781,7 @@
 *://*.e-learn.cn/*
 *://*.e7890.cn/*
 *://*.eagle-pkg.buzz/*
+*://*.eamimi.com/*
 *://*.easyzc.com/*
 *://*.eayzer.com/*
 *://*.ebook123.cc/*
