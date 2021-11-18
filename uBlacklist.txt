@@ -229,6 +229,7 @@
 *://*.5pk.ah.2j0.iyu.y7.l99.m.7d6y.com/*
 *://*.611fu.com/*
 *://*.626927.com/*
+*://*.626978.com/*
 *://*.635sc.com/*
 *://*.65at.cc/*
 *://*.666so.cn/*
@@ -365,6 +366,7 @@
 *://*.anitadreamhotel.com/*
 *://*.anlon.com.tw/*
 *://*.answer-id.com/*
+*://*.answerlib.com/*
 *://*.answiz.com/*
 *://*.antarcticshop.com/*
 *://*.anticaitaliacomano.it/*
@@ -372,6 +374,7 @@
 *://*.anyun.org/*
 *://*.aosae.com/*
 *://*.aotu.io/*
+*://*.ape-ask.com/*
 *://*.aphilosopher.net/*
 *://*.appleglitz.com/*
 *://*.aptvgo.com/*
@@ -394,6 +397,7 @@
 *://*.b2bchain.cn/*
 *://*.baba100.com/*
 *://*.baidle.com/*
+*://*.baidow.com/*
 *://*.baidu.com.024women.com/*
 *://*.baidu.com.27f8d94bd0b249a6a9168b1e26efbee7.kaweiso.com/*
 *://*.baidu.com.s.2fjc5sedmhi5enihkmsurq7smzl5kzvwx2aehaa8ollo7miojqwlkkzobt0w2.e6b885e5bfae899d.zhulhua.com.cn/*
@@ -424,6 +428,7 @@
 *://*.bbsmax.com/*
 *://*.bcajw.com/*
 *://*.bccrwp.org/*
+*://*.bcqaw.com/*
 *://*.bdqxgw.com/*
 *://*.bdw365.com/*
 *://*.bebugless.com/*
@@ -448,6 +453,7 @@
 *://*.binbaoli.com/*
 *://*.biogogreen.com/*
 *://*.bitedie.com/*
+*://*.bjcqtgs.com/*
 *://*.bjhering.com/*
 *://*.bjhongxiangyuyu.com/*
 *://*.bjhzfs.com/*
@@ -482,6 +488,7 @@
 *://*.boredandhigh.com/*
 *://*.boruizhi.net/*
 *://*.boschgl.com/*
+*://*.bostersoft.com/*
 *://*.bountysource.com/issues/*
 *://*.boxuegu.com/*
 *://*.bransonluxurylodging.com/*
@@ -511,6 +518,7 @@
 *://*.cadfanholidays.co.uk/*
 *://*.caeoa.org/*
 *://*.cafegatto.com/*
+*://*.cagmbh.com/*
 *://*.caibaojian.com/*
 *://*.caicaipc.com/*
 *://*.caijing114.com/*
@@ -672,6 +680,7 @@
 *://*.daigoupiggy.com/*
 *://*.daima.net/*
 *://*.daimajiaoliu.com/*
+*://*.daimazxw.com/*
 *://*.dainifei.info/*
 *://*.daizhiduo.com/*
 *://*.dajobrinkman.net/*
@@ -819,6 +828,7 @@
 *://*.esihui.com/*
 *://*.essadix.nl/*
 *://*.estherboesche.com/*
+*://*.etsoutdoors.com/*
 *://*.ev-az.com/*
 *://*.evget.com/*
 *://*.exceljcw.com/*
@@ -882,6 +892,7 @@
 *://*.forum.vi-mm.eu/*
 *://*.free-lunwen.com/*
 *://*.free699.com/*
+*://*.freecodecamp.org/*
 *://*.freesion.com/*
 *://*.freetribe.me/*
 *://*.freewechat.com/*
@@ -1015,6 +1026,7 @@
 *://*.hao4k.cn/*
 *://*.hao8.net/*
 *://*.haohuolife.com/*
+*://*.haokuaisou.cc/*
 *://*.haolizi.net/*
 *://*.haomenshiye.cn/*
 *://*.haoqu.org/*
@@ -1115,6 +1127,7 @@
 *://*.huankangfc.com/*
 *://*.huanqiao406.com/*
 *://*.huanyuxumu.com/*
+*://*.huasheji.com/*
 *://*.huaweicloud.com/articles/*
 *://*.huaweicloud.com/theme/*
 *://*.huaweicloud.com/topic/*
@@ -1152,6 +1165,7 @@
 *://*.icb2011.com/*
 *://*.ichengxu.cc/*
 *://*.icmat.net/*
+*://*.icode.best/*
 *://*.icode9.com/*
 *://*.icopy.site/*
 *://*.iditect.com/how-to/*
@@ -1191,6 +1205,7 @@
 *://*.it-swarm.net/*
 *://*.it1352.com/*
 *://*.it145.com/*
+*://*.it566.top/*
 *://*.it603.com/*
 *://*.it880880.com/*
 *://*.itakesoft.com/*
@@ -1232,6 +1247,7 @@
 *://*.j1o.net/*
 *://*.jackxiang.com/*
 *://*.jalsys.com/*
+*://*.jatic.net/*
 *://*.javaear.com/*
 *://*.javaer101.com/*
 *://*.javajia.com/*
@@ -1391,6 +1407,7 @@
 *://*.kubh.lkcpz.download/*
 *://*.kudiannao.com/*
 *://*.kungyat.cn/*
+*://*.kusearch.cc/*
 *://*.kushalinfra.com/*
 *://*.kushibar.com.tw/*
 *://*.kutu66.com/*
@@ -1459,6 +1476,7 @@
 *://*.lldn.net/*
 *://*.llfiwdw.cn/*
 *://*.llzdhb.com/*
+*://*.lmonkey.com/*
 *://*.lnbird.com/*
 *://*.locvps.xyz/*
 *://*.loltftpro.com/*
@@ -1639,6 +1657,7 @@
 *://*.nmhjw.cn/*
 *://*.nong.09086.cn/*
 *://*.nongyetai.com/*
+*://*.noobyard.com/*
 *://*.norarcoval.com/*
 *://*.norrtaljezoo.com/*
 *://*.notwiki.cn/*
@@ -1648,6 +1667,7 @@
 *://*.nxtoten.com/*
 *://*.nyp655.com/*
 *://*.nzchip.com/*
+*://*.o2ojs.com/*
 *://*.o2onlyone.net/*
 *://*.oapawn.com/*
 *://*.obnseo.com/*
@@ -1735,6 +1755,7 @@
 *://*.php361.com/*
 *://*.phpernote.com/*
 *://*.phperz.com/*
+*://*.phpheidong.com/*
 *://*.phprr.com/*
 *://*.phpxs.com/*
 *://*.phpyuan.com/*
@@ -1876,6 +1897,7 @@
 *://*.rkgpc.date/*
 *://*.robertmwagner.com/*
 *://*.rockero.com.py/*
+*://*.rocksearch.cc/*
 *://*.rong360.com/*
 *://*.ronzhuan.com/*
 *://*.rookiesavior.net/*
@@ -1938,6 +1960,7 @@
 *://*.seotool99.com/*
 *://*.seozhijia.net/*
 *://*.sevdawap.com/*
+*://*.sgongfu.com/*
 *://*.sh-jieao.com/*
 *://*.shangdixinxi.com/*
 *://*.shangmayuan.com/*
@@ -2045,6 +2068,7 @@
 *://*.so.znqnet.com/*
 *://*.soba123.com/*
 *://*.sodocs.net/*
+*://*.soft111.com/*
 *://*.soft2046.com/*
 *://*.softwarebrother.com/*
 *://*.sohu.com/*
@@ -2348,6 +2372,7 @@
 *://*.weipxiu.com/*
 *://*.weivb.com/*
 *://*.weixineda.com/*
+*://*.weixing-jct.com/*
 *://*.weixingon.com/*
 *://*.weixueyuan.net/*
 *://*.wellness100.cc/*
@@ -2374,6 +2399,7 @@
 *://*.wispypages.com/*
 *://*.wj-o3.com/*
 *://*.wj458.com/*
+*://*.wjhsh.net/*
 *://*.wjxwlr.cn/*
 *://*.wkee.net/*
 *://*.wldbs.com/*
@@ -2434,6 +2460,7 @@
 *://*.xiaolee.net/*
 *://*.xiaosou.cc/*
 *://*.xiaozhishi.net/*
+*://*.xiaozhuvideo.com/*
 *://*.xiazaila.com/*
 *://*.xiazaiwo.net/*
 *://*.xieetuuy.com/*
@@ -3115,6 +3142,7 @@
 *://www.dglktt.com/*
 *://www.dmozdir.org/*
 *://www.download2me.com/*
+*://www.dvy.com.cn/*
 *://www.dxjiadian.com/*
 *://www.eeq8.com/*
 *://www.extutorial.com/*
