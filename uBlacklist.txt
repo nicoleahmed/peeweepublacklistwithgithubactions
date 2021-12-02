@@ -193,6 +193,7 @@
 *://*.52fuqu.com/*
 *://*.52help.net/*
 *://*.52huixz.com/*
+*://*.52itzixun.com/*
 *://*.52sdg.com/*
 *://*.52vr.com/*
 *://*.52youguan.com/*
@@ -372,6 +373,7 @@
 *://*.anticaitaliacomano.it/*
 *://*.anysafer.com/*
 *://*.anyun.org/*
+*://*.aoaiao.com/*
 *://*.aosae.com/*
 *://*.aotu.io/*
 *://*.ape-ask.com/*
@@ -974,6 +976,7 @@
 *://*.gpbctv.com/*
 *://*.gpxz.com/*
 *://*.graphenstone-china.com/*
+*://*.grcamerada.com/*
 *://*.grinstreet.ru/*
 *://*.gsmxm.com/*
 *://*.gsmy791.com/*
@@ -1180,6 +1183,7 @@
 *://*.imangodoc.com/*
 *://*.immo-logis.net/*
 *://*.imooc.com/*
+*://*.imtqy.com/*
 *://*.innofthedovedallas.com/*
 *://*.insideabritishmumskitchen.com/*
 *://*.insitedesigns.net/*
@@ -1197,6 +1201,7 @@
 *://*.isky.ltd/*
 *://*.iso22000certification.com/*
 *://*.issue.life/*
+*://*.issueexplorer.com/*
 *://*.issuehub.io/*
 *://*.issuu.com/*
 *://*.it-swarm.asia/*
@@ -1227,7 +1232,11 @@
 *://*.itpow.com/*
 *://*.itranslater.com/*
 *://*.itread01.com/*
+*://*.its201.com/*
 *://*.its203.com/*
+*://*.its301.com/*
+*://*.its304.com/*
+*://*.its401.com/*
 *://*.its404.com/*
 *://*.itspxx.com/*
 *://*.ittribalwo.com/*
@@ -1577,6 +1586,7 @@
 *://*.mobans.com/*
 *://*.mobilephoneslive.com/*
 *://*.modb.pro/*
+*://*.moe.am/*
 *://*.mofish.work/*
 *://*.moktime.com/*
 *://*.montepozuelo.com/*
@@ -1605,6 +1615,7 @@
 *://*.muhai.net/*
 *://*.mushihua.org/*
 *://*.mwsoso.com/*
+*://*.mwwwguilinliwu.com/*
 *://*.mx185.com/*
 *://*.mxgroup.ru/*
 *://*.mxtube.net/*
@@ -1741,6 +1752,7 @@
 *://*.pc6.com/*
 *://*.pcgamerbike.com/*
 *://*.pcok100.com/*
+*://*.pctantao.com/*
 *://*.pcworks.cn/*
 *://*.peiyige.com/*
 *://*.penzai.com/*
@@ -2434,6 +2446,7 @@
 *://*.wzhryw.com/*
 *://*.wznk.net/*
 *://*.wzsky.net/*
+*://*.wzszf.com/*
 *://*.x3mr.cn/*
 *://*.x77ba.com/*
 *://*.xablgt.cn/*
