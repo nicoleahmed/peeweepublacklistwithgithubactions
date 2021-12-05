@@ -980,6 +980,7 @@
 *://*.gimid.com/*
 *://*.gimoo.net/*
 *://*.gionee.com/*
+*://*.giters.com/*
 *://*.github-wiki-see.page/*
 *://*.githubmemory.com/*
 *://*.gitmemory.com/*
