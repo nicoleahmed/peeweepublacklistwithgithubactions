@@ -2889,6 +2889,7 @@
 *://insurancewikitw.com/*
 *://issuehunt.io/*
 *://it.wenda123.org/*
+*://itectec.com/*
 *://iter01.com/*
 *://ithelp.ithome.com.tw/*
 *://itindex1.rssing.com/*
@@ -3005,6 +3006,7 @@
 *://my.oschina.net/*
 *://network.51cto.com/*
 *://new.qq.com/*
+*://newbedev.com/*
 *://news.4399.com/*
 *://news.558idc.com/*
 *://news.aotu.io/*
@@ -3140,6 +3142,8 @@
 *://www.babylonjs.com.cn/*
 *://www.bianchengquan.com/*
 *://www.bjnews.com.cn/*
+*://www.bookstack.cn/*
+*://www.bubuko.com/*
 *://www.bytev.com.cn/*
 *://www.canterburyedu.com/*
 *://www.castt.ac.cn/*
@@ -3159,6 +3163,7 @@
 *://www.dxjiadian.com/*
 *://www.eeq8.com/*
 *://www.extutorial.com/*
+*://www.generacodice.com/*
 *://www.ghcc.net/*
 *://www.helplib.cn/*
 *://www.hmldds.com/*
