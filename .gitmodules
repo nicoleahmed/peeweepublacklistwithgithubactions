@@ -10,3 +10,9 @@
 [submodule "vendor/Aierklk/uBlacklist-blacklist"]
 	path = vendor/Aierklk/uBlacklist-blacklist
 	url = https://github.com/Aierklk/uBlacklist-blacklist.git
+[submodule "vendor/arosh/ublacklist-stackoverflow-translation"]
+	path = vendor/arosh/ublacklist-stackoverflow-translation
+	url = https://github.com/arosh/ublacklist-stackoverflow-translation.git
+[submodule "vendor/arosh/ublacklist-github-translation"]
+	path = vendor/arosh/ublacklist-github-translation
+	url = https://github.com/arosh/ublacklist-github-translation.git
