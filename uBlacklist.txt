@@ -2958,7 +2958,9 @@
 *://games.qq.com/*
 *://gcdn.grapecity.com.cn/*
 *://getm4.aiyanqing.com/*
+*://githubhelp.com/*
 *://githubmemory.com/*
+*://githubplus.com/*
 *://guanjia.qq.com/*
 *://guide.lxtac.com/*
 *://gxl.eroicatour.it/*
