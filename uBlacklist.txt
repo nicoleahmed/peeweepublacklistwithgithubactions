@@ -3363,6 +3363,7 @@
 *://www.huaweicloud.com/theme/*
 *://www.i4k.xyz/*
 *://www.it-mure.jp.net/*
+*://www.it-swarm-fr.com/*
 *://www.it-swarm-ja.com/*
 *://www.it-swarm-ja.tech/*
 *://www.it-swarm.cn/*
