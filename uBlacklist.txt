@@ -2961,6 +2961,7 @@
 *://cn.sunflowercreations.org/*
 *://cn.transcend-info.com/*
 *://cn.voidcc.com/*
+*://cndgn.com/*
 *://cnode1.rssing.com/*
 *://code-examples.net/*
 *://code.i-harness.com/*
