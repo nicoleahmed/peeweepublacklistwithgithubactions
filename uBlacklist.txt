@@ -2880,7 +2880,6 @@
 *://512.8viaggi.it/*
 *://a.4399.cn/*
 *://acute3d-viewer-64-bit.updatestar.com/*
-*://alwaysemmyhope.com/*
 *://anby.nico-locker.de/*
 *://answer-id.com/*
 *://api.9idudu.com/*
@@ -3010,6 +3009,8 @@
 *://githubja.com/*
 *://githubmemory.com/*
 *://githubplus.com/*
+*://gitmemory.cn/*
+*://golangrepo.com/*
 *://guanjia.qq.com/*
 *://guide.lxtac.com/*
 *://gxl.eroicatour.it/*
