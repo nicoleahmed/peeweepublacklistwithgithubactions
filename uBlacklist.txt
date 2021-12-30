@@ -2969,6 +2969,7 @@
 *://codehero.jp/*
 *://coderedirect.com/*
 *://coderoad.ru/*
+*://codersatellite.com/*
 *://codesearch.codelibs.org/*
 *://community.fs.com/*
 *://contrologic.co.th/*
@@ -3184,6 +3185,7 @@
 *://pretagteam.com/*
 *://product.pconline.com.cn/*
 *://program.xiaobenzi.com/*
+*://pythonissues.com/*
 *://pythonwd.com/*
 *://q.cnblogs.com/*
 *://qa-stack.pl/*
