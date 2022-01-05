@@ -3063,6 +3063,7 @@
 *://contrologic.co.th/*
 *://cw.hubwiz.com/*
 *://database.51cto.com/*
+*://devbugfix.com/*
 *://developer.51cto.com/*
 *://developer.aliyun.com/article/*
 *://developer.aliyun.com/askzt/*
@@ -3082,6 +3083,7 @@
 *://evyb.bibliotheksumfrage.de/*
 *://exceptionshub.com/*
 *://express-news.me/*
+*://farath.com/*
 *://finance.sina.com.cn/*
 *://findbestopensource.com/*
 *://forum.gamer.com.tw/*
@@ -3093,6 +3095,7 @@
 *://games.qq.com/*
 *://gcdn.grapecity.com.cn/*
 *://getm4.aiyanqing.com/*
+*://gitanswer.com/*
 *://giters.com/*
 *://githubhelp.com/*
 *://githubja.com/*
@@ -3274,6 +3277,7 @@
 *://product.pconline.com.cn/*
 *://program.xiaobenzi.com/*
 *://pythonissues.com/*
+*://pythonrepo.com/*
 *://pythonwd.com/*
 *://q.cnblogs.com/*
 *://qa-stack.pl/*
