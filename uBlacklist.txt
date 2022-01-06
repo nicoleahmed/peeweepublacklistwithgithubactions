@@ -2987,6 +2987,7 @@
 *://bbs.huaweicloud.com/*
 *://bbs.itheima.com/*
 *://bbs.itying.com/*
+*://bestofcpp.com/*
 *://biancheng.45soft.com/*
 *://biancheng.dnbcw.net/*
 *://bim.chinarevit.com/*
