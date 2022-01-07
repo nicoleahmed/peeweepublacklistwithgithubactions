@@ -21,15 +21,10 @@ jobs:
           git config --local user.name "github-actions[bot]"
 
           git submodule update --recursive --remote
-          if [[ $(git diff) ]]; then
-            git add -u
-            git commit -m "Update submodules" -a
-          fi
 
           if [ -f uBlacklist.txt ]; then rm -v uBlacklist.txt; fi
           cat vendor.list | xargs -i sh -c 'cat {} >> uBlacklist.txt ; echo  >> uBlacklist.txt'
           ./removeDuplicateLines.py && mv -v output.txt uBlacklist.txt
-          git add uBlacklist.txt
           if [[ $(git diff HEAD uBlacklist.txt) ]]; then
             git commit -m "Update uBlacklist.txt" -a
           fi
