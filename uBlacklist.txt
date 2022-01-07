@@ -1049,6 +1049,8 @@
 *://*.githubmemory.com/*
 *://*.gitmemory.cn/*
 *://*.gitmemory.com/*
+*://*.gitplanet.com/*
+*://*.gitstar-ranking.com/*
 *://*.gjfs.com.cn/*
 *://*.gkgjws.com/*
 *://*.glassessalecp.com/*
