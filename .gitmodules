@@ -16,3 +16,6 @@
 [submodule "vendor/arosh/ublacklist-github-translation"]
 	path = vendor/arosh/ublacklist-github-translation
 	url = https://github.com/arosh/ublacklist-github-translation.git
+[submodule "vendor/kecrily/anti-content-farm"]
+	path = vendor/kecrily/anti-content-farm
+	url = git@github.com:kecrily/anti-content-farm.git
