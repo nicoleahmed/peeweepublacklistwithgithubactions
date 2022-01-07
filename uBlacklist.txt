@@ -130,6 +130,7 @@
 *://*.298.life/*
 *://*.2996299.com/*
 *://*.2a2d75.dcmir4f.com/*
+*://*.2abdwap.club/*
 *://*.2huoqingnian.com/*
 *://*.2iik.com/*
 *://*.2y1m.com/*
@@ -338,6 +339,7 @@
 *://*.abcdown.net/*
 *://*.abcsou.cc/*
 *://*.abdwap.work/*
+*://*.abdwap1.me/*
 *://*.abks.hfges.top/*
 *://*.ac590.com/*
 *://*.acehfoto.com/*
