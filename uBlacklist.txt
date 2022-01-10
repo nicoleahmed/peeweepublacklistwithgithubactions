@@ -4065,6 +4065,7 @@
 *://softwarebrother.com/*
 *://sogaweb.com/*
 *://ssgold9999.com/*
+*://stackify.dev/*
 *://stackoom.com/*
 *://stackovergo.com/*
 *://stackqna.com/*
