@@ -11,6 +11,7 @@
 *://*.03157.com/*
 *://*.0370hz.com/*
 *://*.045ddd.com/*
+*://*.0518zz.cn/*
 *://*.0533fc.net/*
 *://*.0537.ru/*
 *://*.054wan.com/*
@@ -43,6 +44,7 @@
 *://*.10qianwan.com/*
 *://*.111com.net/*
 *://*.1141.net/*
+*://*.114158.com/*
 *://*.114saige.com/*
 *://*.11pdf.com/*
 *://*.11st22.com/*
@@ -421,6 +423,7 @@
 *://*.atamaldives.net/*
 *://*.athabasca-foto.com/*
 *://*.atwhcb.com/*
+*://*.augep.com/*
 *://*.austrade-ch.com/*
 *://*.avdll.com/*
 *://*.axihe.com/*
@@ -537,9 +540,11 @@
 *://*.brlbarel.com/*
 *://*.brunetvip.com/*
 *://*.bstcy.com/*
+*://*.bthss.com/*
 *://*.btwmch.com/*
 *://*.buaq.net/*
 *://*.bubuko.com/*
+*://*.bugelun.com/*
 *://*.bullforyou.com/*
 *://*.bushini.de/*
 *://*.business-web-sites-hosting.com/*
@@ -577,6 +582,7 @@
 *://*.canva.cn/*
 *://*.caogenjava.com/*
 *://*.capoverdeviaggi.it/*
+*://*.careerengine.us/*
 *://*.casbaadirectory.com/*
 *://*.cashlendup.net/*
 *://*.cashsave.org/
@@ -615,6 +621,7 @@
 *://*.chaosou.cc/*
 *://*.chaoyue.link/*
 *://*.chatitu.com/*
+*://*.chcpd.com/*
 *://*.check4herpes.com/*
 *://*.cheerda.net/*
 *://*.chengzi1058.com/*
@@ -831,6 +838,7 @@
 *://*.dongxzs.com/*
 *://*.doo.me/*
 *://*.doreenbabycare.com/*
+*://*.dory.com.cn/*
 *://*.doubi.ren/*
 *://*.dougua.net/*
 *://*.dovov.com/*
@@ -856,6 +864,7 @@
 *://*.dxxc.com/*
 *://*.dy1633.com/*
 *://*.dy1991.com/*
+*://*.dyecn.com/*
 *://*.dygkw.me/*
 *://*.dyzdy.cn/*
 *://*.e-c-schraml.de/*
@@ -878,6 +887,7 @@
 *://*.ecvss.org/*
 *://*.ed2ks.com/*
 *://*.edoou.com/*
+*://*.educity.cn/*
 *://*.edwardianjewellery.com/*
 *://*.eeq8.com/*
 *://*.eferrit.com/*
@@ -954,6 +964,7 @@
 *://*.fgjrkh0769.com/*
 *://*.fgmnr.com/*
 *://*.fhkyg.cricket/*
+*://*.fhsas.com/*
 *://*.filipdippel.de/*
 *://*.finanziata.buzz/*
 *://*.findapk.cn/*
@@ -1161,6 +1172,7 @@
 *://*.hcpcm.net/*
 *://*.hd800.net/*
 *://*.hdgangqiu.com/*
+*://*.hdnhs.com/*
 *://*.hdnkm.com/*
 *://*.he-chuan.com/*
 *://*.hebeiling.top/*
@@ -1501,6 +1513,7 @@
 *://*.jxyxtx.com/*
 *://*.jy7cyn.com/*
 *://*.jz5u.com/*
+*://*.jzdyb.com/*
 *://*.jzhyfrp.com/*
 *://*.jzsoft.net/*
 *://*.jzxfz.com/*
@@ -1542,6 +1555,7 @@
 *://*.kol.cn/*
 *://*.koubeiblog.com/*
 *://*.koudaiwiki.com/*
+*://*.koujipu.co/*
 *://*.ksou.cc/*
 *://*.kspzj.com/*
 *://*.ksxianglu.com/*
@@ -1629,6 +1643,7 @@
 *://*.ljineng.com/*
 *://*.ljkqj.loan/*
 *://*.lkjfglass.com/*
+*://*.lkmgr.com/*
 *://*.lkmheatlock.com/*
 *://*.lldn.net/*
 *://*.llfiwdw.cn/*
@@ -1765,6 +1780,7 @@
 *://*.mrcwebapps.com/*
 *://*.mrslevin.com/*
 *://*.mscto.com/*
+*://*.msfxt.com/*
 *://*.msldg.com/*
 *://*.mt-v.com/*
 *://*.mtgrupovega.com/*
@@ -1935,6 +1951,7 @@
 *://*.parkous.com/*
 *://*.paruze.com/*
 *://*.pblcode.com/*
+*://*.pc-daily.com/*
 *://*.pc6.com/*
 *://*.pcbconline.org/*
 *://*.pcgamerbike.com/*
@@ -2071,6 +2088,7 @@
 *://*.qu02.com/*
 *://*.quanbuso.com/*
 *://*.quantumafrica4.com/*
+*://*.quanwai.net/*
 *://*.qubaidu.cn/*
 *://*.qubi8.com/*
 *://*.qubian.cn/*
@@ -2129,6 +2147,7 @@
 *://*.rsxedu.com/*
 *://*.rsyncd.net/*
 *://*.rtmj.net/*
+*://*.ruankaoti.com/*
 *://*.ruilianmen666.com/*
 *://*.ruiyulm.com/*
 *://*.ruonu.com/*
@@ -2187,6 +2206,7 @@
 *://*.seraragame.com/*
 *://*.sevdawap.com/*
 *://*.sgongfu.com/*
+*://*.sgrss.com/*
 *://*.sgsou.cc/*
 *://*.sh-caco3.com/*
 *://*.sh-jieao.com/*
@@ -2208,6 +2228,7 @@
 *://*.shengqian001.com/*
 *://*.shengyijixie.com/*
 *://*.shenso.wang/*
+*://*.sher3.com/*
 *://*.shhkhb.com/*
 *://*.shiai4444.com/*
 *://*.shifangwusheng.com/*
@@ -4589,6 +4610,7 @@
 *://www.macaodaily.com/*
 *://www.madhyamgram.buzz/*
 *://www.maidaquan.com/*
+*://www.maishuini.com/news/*
 *://www.manyanu.com/*
 *://www.mch5k.com/*
 *://www.mcwlc.com/*
