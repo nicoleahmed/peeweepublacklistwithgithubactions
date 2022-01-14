@@ -4118,6 +4118,7 @@
 *://softwarebrother.com/*
 *://sogaweb.com/*
 *://ssgold9999.com/*
+*://stackfinder.jp.net/*
 *://stackify.dev/*
 *://stackoom.com/*
 *://stackovergo.com/*
