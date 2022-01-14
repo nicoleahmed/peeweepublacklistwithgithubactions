@@ -3491,6 +3491,7 @@
 *://codecocoa.com/*
 *://codeguides.site/*
 *://codehero.jp/*
+*://coder-solution-jp.com/*
 *://coderedirect.com/*
 *://coderoad.ru/*
 *://codersatellite.com/*
@@ -3671,6 +3672,7 @@
 *://jishuin.proginn.com/*
 *://jiul.vane-vis.nl/*
 *://jordan7sweater.com/*
+*://jpndev.com/*
 *://jrccn.cn/*
 *://jrcxw.com/*
 *://juweibangong.com/*
