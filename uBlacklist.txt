@@ -3558,7 +3558,6 @@
 *://fcsbm.org/*
 *://fepch.org/*
 *://finance.sina.com.cn/*
-*://findbestopensource.com/*
 *://fkgvsu.951779.vip/*
 *://flyzyblog.com/*
 *://forum.gamer.com.tw/*
@@ -3588,6 +3587,7 @@
 *://gg09.dkh917.icu/*
 *://gitanswer.com/*
 *://giters.com/*
+*://github.innominds.com/*
 *://githubhelp.com/*
 *://githubja.com/*
 *://githubmemory.com/*
@@ -4477,6 +4477,7 @@
 *://www.fdsbdxx.com/*
 *://www.ff668.cc/*
 *://www.fgttf.com/*
+*://www.findbestopensource.com/*
 *://www.fixes.pub/*
 *://www.fjhbg.cn/*
 *://www.fjjzp.com/*
@@ -4782,6 +4783,7 @@
 *://www.wecarehome.com.cn/*
 *://www.weiku999.com/*
 *://www.wentiquan.net/*
+*://www.wenyanet.com/*
 *://www.wgd888.com/*
 *://www.whsjdt.com/*
 *://www.whysw88.com/*
