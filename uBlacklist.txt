@@ -4763,6 +4763,7 @@
 *://www.ucbaike.com/*
 *://www.ucloud.cn/yun/*
 *://www.ucxinwen.com/*
+*://www.uebu-kaihatsu.jp.net/*
 *://www.uml.org.cn/*
 *://www.uni-ustyle.com.tw/*
 *://www.utbtir.xyz/*
