@@ -4122,6 +4122,7 @@
 *://sqlite.in/*
 *://ssgold9999.com/*
 *://stackfinder.jp.net/*
+*://stackguides.com/*
 *://stackify.dev/*
 *://stackoom.com/*
 *://stackovergo.com/*
