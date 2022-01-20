@@ -4119,6 +4119,7 @@
 *://soft.zol.com.cn/*
 *://softwarebrother.com/*
 *://sogaweb.com/*
+*://sqlite.in/*
 *://ssgold9999.com/*
 *://stackfinder.jp.net/*
 *://stackify.dev/*
@@ -4514,6 +4515,7 @@
 *://www.hediao.net/*
 *://www.helplib.cn/*
 *://www.hidna.net/*
+*://www.higithub.com/*
 *://www.hjpnc.com/*
 *://www.hkcjwa.com/*
 *://www.hmldds.com/*
