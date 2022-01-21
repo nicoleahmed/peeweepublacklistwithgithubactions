@@ -3366,6 +3366,7 @@
 *://ask.jisuapp.cn/*
 *://ask.subar.me/*
 *://ask.zol.com.cn/*
+*://askdev.vn/*
 *://au5u.cndck.cn/*
 *://av.x-videos-porn.com/*
 *://awesomeopensource.com/*
@@ -3496,6 +3497,7 @@
 *://coderoad.ru/*
 *://codersatellite.com/*
 *://codesearch.codelibs.org/*
+*://codewdw.com/*
 *://colombogazette.com/*
 *://community.fs.com/*
 *://contrologic.co.th/*
@@ -3542,6 +3544,7 @@
 *://easysavecode.com/*
 *://ecfhd.hy-b2b.com/*
 *://educar-bus.cl/*
+*://edupro.id/*
 *://englishzhang.com/*
 *://eobt.astrologe-instituutsandra.nl/*
 *://epaper.mrjjxw.com/*
@@ -3630,6 +3633,7 @@
 *://home.kuniu.online/*
 *://hongguangsc.com/*
 *://hongxitech.com/*
+*://howtofix.io/*
 *://hsgp.cc/*
 *://hsk.oray.com/*
 *://htgoal.com/*
@@ -3672,6 +3676,7 @@
 *://jishuin.proginn.com/*
 *://jiul.vane-vis.nl/*
 *://jordan7sweater.com/*
+*://jpcodeqa.com/*
 *://jpndev.com/*
 *://jrccn.cn/*
 *://jrcxw.com/*
@@ -4041,6 +4046,7 @@
 *://product.pconline.com.cn/*
 *://program.xiaobenzi.com/*
 *://pu.link/*
+*://python-stack.de/*
 *://pythonissues.com/*
 *://pythonrepo.com/*
 *://pythonwd.com/*
@@ -4076,6 +4082,7 @@
 *://qnews.net/*
 *://qqzhihu.com/*
 *://quabr.com/*
+*://quares.ru/*
 *://qunkong.com.cn/*
 *://qwhy.motorradfreundeludwigshafen.de/*
 *://qyhr.uk.com/*
@@ -4121,6 +4128,7 @@
 *://sogaweb.com/*
 *://sqlite.in/*
 *://ssgold9999.com/*
+*://stackfault.net/*
 *://stackfinder.jp.net/*
 *://stackguides.com/*
 *://stackify.dev/*
@@ -4359,6 +4367,7 @@
 *://www.andlaou.com/*
 *://www.anhuilife.com/*
 *://www.anlifilm.com/*
+*://www.answerlib.com/*
 *://www.aphhh.com/*
 *://www.app-good.com/*
 *://www.arhivo.com/*
@@ -4394,6 +4403,7 @@
 *://www.bugaonlp.com/*
 *://www.bulletin.cas.cn/*
 *://www.buscodepto.com/*
+*://www.buzzphp.com/*
 *://www.bytev.com.cn/*
 *://www.cairoibf.org/*
 *://www.cakelu.com/*
@@ -4444,6 +4454,7 @@
 *://www.ddv6.com/*
 *://www.debugcn.com/*
 *://www.dengb.com/*
+*://www.desenv-web-rp.com/*
 *://www.dglktt.com/*
 *://www.dgyikai.com/*
 *://www.dianbonum.com/*
@@ -4470,6 +4481,7 @@
 *://www.eeq8.com/*
 *://www.ek6.com/*
 *://www.enmsb.com/*
+*://www.examplefiles.net/*
 *://www.extutorial.com/*
 *://www.fahuoiio.com/*
 *://www.fanaticism.cn/*
@@ -4732,6 +4744,7 @@
 *://www.skype-keishin.buzz/*
 *://www.sldfc.cn/*
 *://www.sodeog.com/*
+*://www.stackfinder.ru/*
 *://www.storm.mg/*
 *://www.studynb1.com/*
 *://www.superclubs.com.cn/*
@@ -4897,6 +4910,7 @@
 *://yino.plotterkleding.nl/*
 *://yktq.prolocoformia.it/*
 *://ylmfeng.com/*
+*://younggeeks.in/*
 *://yourongdd.com/*
 *://yq.aliyun.com/*
 *://yq.aliyun.com/articles/*
