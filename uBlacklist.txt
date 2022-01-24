@@ -1,6 +1,7 @@
 *://*.005i.com/*
 *://*.01-123.com/*
 *://*.01-800.cn/*
+*://*.01076hk.cc/*
 *://*.021sensor.com/*
 *://*.021shfx.com/*
 *://*.023dns.com/*
@@ -327,6 +328,7 @@
 *://*.99cloud.net/*
 *://*.99ku.vip/*
 *://*.99mingpian.com/*
+*://*.99seba.com/*
 *://*.9game.cn/*
 *://*.9ht.com/*
 *://*.9wxs.com/*
@@ -370,6 +372,7 @@
 *://*.aiwalls.com/*
 *://*.aixku.com/*
 *://*.aiyanqing.com/*
+*://*.aiyingli.com/*
 *://*.aizhan.com/*
 *://*.aizhanzhe.com/*
 *://*.alia.xlhad.top/*
@@ -565,6 +568,7 @@
 *://*.ca88-com.net/*
 *://*.caao.net/*
 *://*.cab22.com/*
+*://*.cache.one/*
 *://*.cadfanholidays.co.uk/*
 *://*.caeoa.org/*
 *://*.cafegatto.com/*
@@ -696,6 +700,7 @@
 *://*.com.sinoextruder.net.cn/*
 *://*.compozi.com/*
 *://*.conceptcar.ee/*
+*://*.coolcxy.com/*
 *://*.cooldemo.net/*
 *://*.coolroofcoating.net/*
 *://*.copyan.com/*
@@ -728,6 +733,7 @@
 *://*.custompatches4u.com/*
 *://*.cxjchs.com/*
 *://*.cxjygj.com/*
+*://*.cxy80.com/*
 *://*.cxybb.com/*
 *://*.cxybl.com/*
 *://*.cxymm.net/*
@@ -741,6 +747,7 @@
 *://*.czmuhe.com/*
 *://*.czsfj.cn/*
 *://*.czsjsb.com/*
+*://*.d1mm.com/*
 *://*.da-quan.net/*
 *://*.dacongyun.com/*
 *://*.dafx.cc/*
@@ -1034,6 +1041,7 @@
 *://*.gateway.web.tr/*
 *://*.gaydamax.com/*
 *://*.gbfgg.cn/*
+*://*.gclcg.com/*
 *://*.gd12121.com/*
 *://*.gdbgp.com/*
 *://*.gdcmendhar.com/*
@@ -1042,6 +1050,7 @@
 *://*.gdyinde.com/*
 *://*.gdzyt007.com/*
 *://*.geek-share.com/*
+*://*.geekcxy.com/*
 *://*.geekschool.org/*
 *://*.geiso.cn/*
 *://*.geistlich-key2success.com/*
@@ -1131,6 +1140,7 @@
 *://*.gzslpzx.com/*
 *://*.gztuku.com/*
 *://*.gzxijiya.com/*
+*://*.gzyonghua.com/*
 *://*.h3399.cn/*
 *://*.h5w3.com/*
 *://*.hack520.com/*
@@ -1251,6 +1261,7 @@
 *://*.hsxlmj.com/*
 *://*.htdzzk.com.cn/*
 *://*.html.cn/*
+*://*.html52.com/*
 *://*.html580.com/*
 *://*.html5star.com/*
 *://*.huajiakeji.com/*
@@ -1353,6 +1364,7 @@
 *://*.it610.com/*
 *://*.it880880.com/*
 *://*.itakesoft.com/*
+*://*.itbaoku.cn/*
 *://*.itbiancheng.com/*
 *://*.itcode123.tech/*
 *://*.itcoder.tech/*
@@ -1360,6 +1372,7 @@
 *://*.ite51.com/*
 *://*.itectec.com/*
 *://*.iter01.com/*
+*://*.itest.info/*
 *://*.iteye.com/*
 *://*.itigic.com/*
 *://*.itindex.net/*
@@ -1526,6 +1539,7 @@
 *://*.kaitianqi.com/*
 *://*.kaixinxiaoketang.com/*
 *://*.kanduanxin.com/*
+*://*.kanporno.com/*
 *://*.kaoyu.org/*
 *://*.kathymorganvoice.com/*
 *://*.kbase101.com/*
@@ -1619,6 +1633,7 @@
 *://*.liangshunet.com/*
 *://*.liangzl.com/*
 *://*.liaohuadong.com/*
+*://*.lic23.com/*
 *://*.lifesgirig.cf/*
 *://*.ligarta.com/*
 *://*.lighteningtikes.com/*
@@ -1626,6 +1641,7 @@
 *://*.likecs.com/*
 *://*.likeji.net/*
 *://*.limbopro.xyz/*
+*://*.limitedcompany.net/*
 *://*.lindasoft.com/*
 *://*.linksou.cc/*
 *://*.linksure.cn/*
@@ -2023,6 +2039,7 @@
 *://*.puercn.com/*
 *://*.puiba.com/*
 *://*.pukatiyu.com/*
+*://*.pumpym.com/*
 *://*.putianseo.net/*
 *://*.py.cn/*
 *://*.py3study.com/*
@@ -2504,6 +2521,7 @@
 *://*.tpst.com.cn/*
 *://*.tqccc.cn/*
 *://*.tqw168.net/*
+*://*.tqwba.com/*
 *://*.tracksfree.com/*
 *://*.tremplin-numerique.org/*
 *://*.trendsshop.cn/*
@@ -2655,6 +2673,7 @@
 *://*.weixing-jct.com/*
 *://*.weixingon.com/*
 *://*.weixueyuan.net/*
+*://*.wellbay.cc/*
 *://*.wellness100.cc/*
 *://*.wenda123.org/*
 *://*.wenku1.com/*
@@ -2672,6 +2691,7 @@
 *://*.whldl.com/*
 *://*.whysw88.com/*
 *://*.wienfm.com/*
+*://*.wifespicture.com/*
 *://*.wikioi.com/*
 *://*.wikiwand.com/*
 *://*.wikizero.com/*
@@ -2703,6 +2723,7 @@
 *://*.woshipm.com/*
 *://*.woso.cn/*
 *://*.wowoka.com/*
+*://*.wp2.cn/*
 *://*.wpjian.com/*
 *://*.wpwfg.cn/*
 *://*.wpwsb.com/*
@@ -2824,6 +2845,7 @@
 *://*.yanzuoguang.com/*
 *://*.yao51.com/*
 *://*.yaoanzx.com/*
+*://*.yaowenming.com/*
 *://*.yataitextile.com/*
 *://*.yaxuntx.com/*
 *://*.yayihouse.com/*
@@ -2948,6 +2970,7 @@
 *://*.zcfy.cc/*
 *://*.zcndt.cn/*
 *://*.zdes-film.com/*
+*://*.zditect.com/*
 *://*.ze3.234665.top/*
 *://*.zendei.com/*
 *://*.zeqa.mygqi.top/*
