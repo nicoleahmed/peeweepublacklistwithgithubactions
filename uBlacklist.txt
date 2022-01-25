@@ -3612,7 +3612,6 @@
 *://gfykd.shop/*
 *://gg09.dkh917.icu/*
 *://gitanswer.com/*
-*://giters.com/*
 *://github.innominds.com/*
 *://githubhelp.com/*
 *://githubja.com/*
