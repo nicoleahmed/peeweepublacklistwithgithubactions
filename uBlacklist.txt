@@ -417,6 +417,7 @@
 *://*.appleglitz.com/*
 *://*.aptvgo.com/*
 *://*.archtek.com.tw/*
+*://*.armgs.com/*
 *://*.art2008.net/*
 *://*.artwebradio.com/*
 *://*.ask.todgo.com/*
@@ -715,6 +716,7 @@
 *://*.cqsscai3188.com/*
 *://*.cqxhfgz.com/*
 *://*.crifan.com/*
+*://*.csa78.com/*
 *://*.cscec7bjt.com/*
 *://*.csdn.net/*
 *://*.csdn.net/gather_*
@@ -773,6 +775,7 @@
 *://*.dayongsp.com/*
 *://*.dayuansouti.com/*
 *://*.dazai.cc/*
+*://*.dbgbr.com/*
 *://*.dc120.com.cn/*
 *://*.dcdapp.com/*
 *://*.dcsdn.com/*
@@ -854,6 +857,7 @@
 *://*.dqzdhw.com/*
 *://*.droidyue.com/*
 *://*.dropsoft.net/*
+*://*.drpneu.com/*
 *://*.dssz.net/*
 *://*.dtmao.cc/*
 *://*.dtybnh.com/*
@@ -910,6 +914,7 @@
 *://*.energietarieven-vergelijken.com/*
 *://*.engineworld.cn/*
 *://*.enkj.com/*
+*://*.enmsb.com/*
 *://*.entertainment14.net/*
 *://*.enzypep.com/*
 *://*.eooele.com/*
@@ -968,6 +973,7 @@
 *://*.fense5.com/*
 *://*.feqn.top/*
 *://*.ffbc57.d071.com/*
+*://*.ffvab.com/*
 *://*.fgjrkh0769.com/*
 *://*.fgmnr.com/*
 *://*.fhkyg.cricket/*
@@ -992,10 +998,12 @@
 *://*.flyzyblog.com/*
 *://*.flyzyblog.net/*
 *://*.fnk.seqe.org.cn/*
+*://*.fokyl.com/*
 *://*.forenose.com/*
 *://*.forensicpsychologysussex.co.uk/*
 *://*.foreverglory.me/*
 *://*.forum.vi-mm.eu/*
+*://*.fpmth.com/*
 *://*.freax.be/*
 *://*.free-lunwen.com/*
 *://*.free699.com/*
@@ -1105,6 +1113,7 @@
 *://*.grinstreet.ru/*
 *://*.gsmxm.com/*
 *://*.gsmy791.com/*
+*://*.gtubo.com/*
 *://*.gtzlbj.com/*
 *://*.guahao.com/*
 *://*.guanf.com/*
@@ -1204,6 +1213,7 @@
 *://*.herpesoutbreaktreatment-reviews.com/*
 *://*.hezeloupan.cn/*
 *://*.hezu6pro.cn/*
+*://*.hfhcl.com/*
 *://*.hfiphone.com/*
 *://*.hfxxgang.com/*
 *://*.hgfzf.cn/*
@@ -1220,6 +1230,7 @@
 *://*.hitechglitz.com/*
 *://*.hiwebpage.com/*
 *://*.hjjyimeipeixun.com/*
+*://*.hjpnc.com/*
 *://*.hjtoysco.cn/*
 *://*.hk.kuaiso.com/*
 *://*.hkhvd.com/*
@@ -1752,6 +1763,7 @@
 *://*.merlinblog.xyz/*
 *://*.metal-wire.net/*
 *://*.meteko.com.tw/*
+*://*.mfgqd.com/*
 *://*.mi-invitacion.com/*
 *://*.mianfeiwendang.com/*
 *://*.mianshigee.com/*
@@ -1798,6 +1810,7 @@
 *://*.mscto.com/*
 *://*.msfxt.com/*
 *://*.msldg.com/*
+*://*.msudz.com/*
 *://*.mt-v.com/*
 *://*.mtgrupovega.com/*
 *://*.mthmq.com/*
@@ -2114,6 +2127,7 @@
 *://*.quweiso.com/*
 *://*.quwoxwen.com/*
 *://*.quyn95.com/*
+*://*.qxctw.com/*
 *://*.qxrsy.com/*
 *://*.qyforum.com/*
 *://*.qyqstore.com/*
@@ -2145,6 +2159,7 @@
 *://*.rightwithgod.net/*
 *://*.riptutorial.com/*
 *://*.rjitw.com/*
+*://*.rjjhb.com/*
 *://*.rjqyl.com/*
 *://*.rjzxw.com/*
 *://*.rkgpc.date/*
@@ -2546,6 +2561,7 @@
 *://*.tvnnu.com/*
 *://*.tw511.com/*
 *://*.twblogs.net/*
+*://*.twfeq.com/*
 *://*.twgjy.com/*
 *://*.twgreatdaily.com/*
 *://*.twypage.com/*
@@ -2725,6 +2741,7 @@
 *://*.wowoka.com/*
 *://*.wp2.cn/*
 *://*.wpjian.com/*
+*://*.wptrn.com/*
 *://*.wpwfg.cn/*
 *://*.wpwsb.com/*
 *://*.wsearch.cc/*
@@ -2854,6 +2871,7 @@
 *://*.ycluomen.com/*
 *://*.ycrlt.com/*
 *://*.ycycbaby.com/*
+*://*.ydbaike.club/*
 *://*.ydxyw.cn/*
 *://*.ydzgw.com/*
 *://*.yeeed.com/*
@@ -3034,6 +3052,7 @@
 *://*.zjlianteng.com/*
 *://*.zjqlct.com/*
 *://*.zjwzfy.com/*
+*://*.zkfgw.com/*
 *://*.zkxblog.com/*
 *://*.zlq09.com/*
 *://*.zmingcx.com/*
