@@ -3631,6 +3631,7 @@
 *://gfykd.shop/*
 *://gg09.dkh917.icu/*
 *://gitanswer.com/*
+*://giters.com/*
 *://github.innominds.com/*
 *://githubhelp.com/*
 *://githubja.com/*
@@ -4021,6 +4022,7 @@
 *://nuomil.com/*
 *://nxwmh.udublw.cn/*
 *://odmch.com/*
+*://openprojectrepo.com/*
 *://opensourcelibs.com/*
 *://ostack.cn/*
 *://oukq.opdenenk.nl/*
@@ -4549,6 +4551,7 @@
 *://www.generacodice.it/*
 *://www.getreign.com/*
 *://www.ghcc.net/*
+*://www.giters.com/*
 *://www.gitmemory.com/*
 *://www.gjffh.com/*
 *://www.globalnetcn.net/*
@@ -4596,6 +4599,7 @@
 *://www.instilsoft.com/*
 *://www.iruixun.cn/*
 *://www.it-mure.jp.net/*
+*://www.it-roy-ru.com/*
 *://www.it-swarm-fr.com/*
 *://www.it-swarm-ja.com/*
 *://www.it-swarm-ja.tech/*
