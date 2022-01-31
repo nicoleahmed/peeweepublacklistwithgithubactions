@@ -682,6 +682,7 @@
 *://*.codebug.vip/*
 *://*.codeday.me/*
 *://*.codedefault.com/*
+*://*.codefaq.info/*
 *://*.codeflow.site/*
 *://*.codejzy.com/*
 *://*.codeleading.com/*
@@ -1751,6 +1752,7 @@
 *://*.mdobs.com/*
 *://*.mdp-bj-marriott.com/*
 *://*.me348i.cn/*
+*://*.mediatagtw.com/*
 *://*.meia.me/*
 *://*.meipiao.me/*
 *://*.meirongbala.com/*
@@ -3393,6 +3395,7 @@
 *://aiox.sameninnop.nl/*
 *://akuu.verfjevrij.nl/*
 *://akxs52.neyen.cn/*
+*://alltodev.com/*
 *://aloomrugco.com/*
 *://amcp495.com/*
 *://anby.nico-locker.de/*
@@ -3532,6 +3535,7 @@
 *://code.i-harness.com/*
 *://code.js-code.com/*
 *://codecocoa.com/*
+*://codefaq.ru/*
 *://codeguides.site/*
 *://codehero.jp/*
 *://coder-solution-jp.com/*
@@ -3684,6 +3688,7 @@
 *://hzsanda.cc/*
 *://hzyjart.com/*
 *://iask.sina.com.cn/*
+*://ibootweb.com/*
 *://ickbpm.xyz/*
 *://idcnav.com/*
 *://igisp.ru/*
@@ -4126,6 +4131,7 @@
 *://qqzhihu.com/*
 *://quabr.com/*
 *://quares.ru/*
+*://question-it.com/*
 *://qunkong.com.cn/*
 *://qwhy.motorradfreundeludwigshafen.de/*
 *://qyhr.uk.com/*
@@ -4304,6 +4310,7 @@
 *://wap.zol.com.cn/*
 *://web.xkyn.net/*
 *://webdevdesigner.com/*
+*://webmonkez.com/*
 *://websou.cc/*
 *://weekly.pkulaw.cn/*
 *://weiboros4b.cn/*
@@ -4366,6 +4373,7 @@
 *://www.591yingshi.com/*
 *://www.59228.xyz/*
 *://www.5a3q.com/*
+*://www.5axxw.com/*
 *://www.626191.com/*
 *://www.626523.com/*
 *://www.6286buse.com/*
@@ -4632,6 +4640,7 @@
 *://www.jppowerventures.com/*
 *://www.jrccn.cn/*
 *://www.jrzj2020.cc/*
+*://www.jscodetips.com/*
 *://www.jsfengchao.com/*
 *://www.juguize.com/*
 *://www.jxshyzhx.com/*
