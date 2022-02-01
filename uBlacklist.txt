@@ -3719,6 +3719,7 @@
 *://jgou.cc/*
 *://jiankang.pai-hang-bang.cn/*
 *://jiaocheng.hxsd.com/*
+*://jike.in/*
 *://jingyan.baidu.com/*
 *://jishuin.proginn.com/*
 *://jiul.vane-vis.nl/*
@@ -4092,6 +4093,7 @@
 *://pr.akdfj.com/*
 *://pretagteam.com/*
 *://product.pconline.com.cn/*
+*://progi.pro/*
 *://program.xiaobenzi.com/*
 *://pu.link/*
 *://python-stack.de/*
