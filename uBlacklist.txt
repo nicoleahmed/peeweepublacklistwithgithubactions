@@ -909,6 +909,7 @@
 *://*.ek21.com/*
 *://*.ekyah.link/*
 *://*.element-ui.cn/*
+*://*.elfishgene.com/*
 *://*.elianwares.com/*
 *://*.embasybaby.com/*
 *://*.enchantedauction.com/*
