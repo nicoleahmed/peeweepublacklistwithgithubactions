@@ -3402,6 +3402,7 @@
 *://anby.nico-locker.de/*
 *://another.shuaizhua.cn/*
 *://answer-id.com/*
+*://answerlib.com/*
 *://api.9idudu.com/*
 *://app.wapiknow.baidu.com/*
 *://artez.org.cn/*
