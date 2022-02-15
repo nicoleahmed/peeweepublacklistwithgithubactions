@@ -4198,6 +4198,7 @@
 *://support.huaweicloud.com/*
 *://support.huaweicloud.com/topic/*
 *://sxcntv.com/*
+*://sysadminde.com/*
 *://syslyl.com/*
 *://syy37.com/*
 *://t.cj.sina.com.cn/*
