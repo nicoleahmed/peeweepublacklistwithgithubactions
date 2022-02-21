@@ -3401,6 +3401,7 @@
 *://amcp495.com/*
 *://anby.nico-locker.de/*
 *://another.shuaizhua.cn/*
+*://answacode.com/*
 *://answer-id.com/*
 *://answerlib.com/*
 *://api.9idudu.com/*
@@ -3409,6 +3410,7 @@
 *://article.docway.net/*
 *://article.itxueyuan.com/*
 *://article.nxpop.com/*
+*://ask-dev.ru/*
 *://ask.csdn.net/*
 *://ask.jisuapp.cn/*
 *://ask.subar.me/*
@@ -3611,6 +3613,7 @@
 *://finance.sina.com.cn/*
 *://fkgvsu.951779.vip/*
 *://flyzyblog.com/*
+*://fooobar.com/*
 *://forum.gamer.com.tw/*
 *://forum.opnsense.org/*
 *://free.com.tw/*
