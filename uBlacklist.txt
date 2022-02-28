@@ -417,6 +417,7 @@
 *://*.appleglitz.com/*
 *://*.aptvgo.com/*
 *://*.archtek.com.tw/*
+*://*.arip-photo.org/*
 *://*.armgs.com/*
 *://*.art2008.net/*
 *://*.artwebradio.com/*
