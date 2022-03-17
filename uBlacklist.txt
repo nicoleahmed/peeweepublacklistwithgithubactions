@@ -323,6 +323,7 @@
 *://*.9744.cc/*
 *://*.97yrbl.com/*
 *://*.98248.loan/*
+*://*.985ys.com/*
 *://*.993113.cn/*
 *://*.999kaopu.com/*
 *://*.99cloud.net/*
@@ -385,7 +386,9 @@
 *://*.alounsse.com/*
 *://*.ambkct.com/*
 *://*.ameliapharm.com/*
+*://*.amhnn.com/*
 *://*.amuddycup.com/*
+*://*.amww.cc/*
 *://*.amxpj000.com/*
 *://*.amxpj25.com/*
 *://*.amzalborz.com/*
@@ -1746,6 +1749,7 @@
 *://*.mayachuanshuo.com/*
 *://*.mch5k.com/*
 *://*.mcp-one.com/*
+*://*.mdbsg.com/*
 *://*.mdeditor.tw/*
 *://*.mdlpg.com/*
 *://*.mdlps.com/*
