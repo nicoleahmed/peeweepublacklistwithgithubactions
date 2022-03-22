@@ -2734,7 +2734,6 @@
 *://*.sunnews.site/*
 *://*.suoniao.com/*
 *://*.supermobileqa.com/*
-*://*.support.huaweicloud.com/*
 *://*.susoba.com/*
 *://*.suxa.org/*
 *://*.svcministry.org/*
