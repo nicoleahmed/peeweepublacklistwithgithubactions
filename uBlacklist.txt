@@ -4072,6 +4072,7 @@
 *://itectec.com/*
 *://ivyyyyyyyypapapa.lofter.com/*
 *://ixii.cc/*
+*://jablogs.com/*
 *://janeai.cc/*
 *://jbh.17qq.com/*
 *://jgou.cc/*
@@ -4080,6 +4081,7 @@
 *://jiul.vane-vis.nl/*
 *://jordan7sweater.com/*
 *://jpcodeqa.com/*
+*://jpdebug.com/*
 *://jpndev.com/*
 *://jrccn.cn/*
 *://jrcxw.com/*
