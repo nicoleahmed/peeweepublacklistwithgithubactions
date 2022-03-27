@@ -3173,6 +3173,7 @@
 *://*.www.cxybb.com/*
 *://*.www.cxymm.net/*
 *://*.www.d3it.cn/*
+*://*.www.daimazhu.com/*
 *://*.www.delftstack.com/*
 *://*.www.dglktt.com/*
 *://*.www.dmozdir.org/*
@@ -3201,6 +3202,7 @@
 *://*.www.laitimes.com/*
 *://*.www.lccnet.com.tw/*
 *://*.www.lovelycxy.com/*
+*://*.www.manbcode.com/*
 *://*.www.mdbsg.com/*
 *://*.www.meilizao.com/*
 *://*.www.muzijie.com/*
