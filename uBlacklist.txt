@@ -264,6 +264,7 @@
 *://*.5k33i.cn/*
 *://*.5pk.ah.2j0.iyu.y7.l99.m.7d6y.com/*
 *://*.611fu.com/*
+*://*.62.234.115.194/*
 *://*.626927.com/*
 *://*.626978.com/*
 *://*.635sc.com/*
@@ -710,6 +711,7 @@
 *://*.chenyuhi.com/*
 *://*.chezaiyi.cn/*
 *://*.chhuawei.com/*
+*://*.chi.centralbaptistquincyma.org/*
 *://*.chiharu-room.net/*
 *://*.chihome.com.tw/*
 *://*.chihovet.com.tw/*
@@ -740,13 +742,17 @@
 *://*.classicalguitarandbeyond.com/*
 *://*.climat-lab.ru/*
 *://*.cll99.com/*
+*://*.cloud.tencent.com/developer/information/*
 *://*.cms88.net/*
 *://*.cn.17tv.tv/*
+*://*.cn.2md-tuning-klub.com/*
+*://*.cn.arip-photo.org/*
 *://*.cn.cambridgecableservice.com/*
 *://*.cn.delavaio.com/*
 *://*.cn.desmoineshvaccompany.com/*
 *://*.cn.dpbhouse.com/*
 *://*.cn.faithcov.org/*
+*://*.cn.handyradar.org/*
 *://*.cn.horecapolis.info/*
 *://*.cn.hostease.com/*
 *://*.cn.labourtalk.org/*
@@ -860,6 +866,7 @@
 *://*.daigoupiggy.com/*
 *://*.daima.net/*
 *://*.daimajiaoliu.com/*
+*://*.daimaqa.com/*
 *://*.daimazxw.com/*
 *://*.dainifei.info/*
 *://*.daizhiduo.com/*
@@ -1569,7 +1576,6 @@
 *://*.ityuan.com/*
 *://*.iuham.com/*
 *://*.ixianzong.com/*
-*://*.ixigua.com/*
 *://*.ixigua.com/search/*
 *://*.ixueshu.com/*
 *://*.iy80.com/*
@@ -1954,6 +1960,7 @@
 *://*.m.sdfcxw.com/*
 *://*.m.somode.com/*
 *://*.m.sowsunbaby.com/*
+*://*.m.studyofnet.com/*
 *://*.m.systemcity.cn/*
 *://*.m.taoqqba.com/*
 *://*.m.tribias.com/*
@@ -2354,6 +2361,7 @@
 *://*.q578.com/*
 *://*.q5j.org/*
 *://*.q8ab.com/*
+*://*.qa.1r1g.cn/*
 *://*.qa.1r1g.com/*
 *://*.qafone.co/*
 *://*.qastack.cn/*
@@ -2697,6 +2705,7 @@
 *://*.sportivnoe-pitanie.com.ua/*
 *://*.spudgreenlake.com/*
 *://*.spzjj.com/*
+*://*.sqlcodeqa.cc/*
 *://*.squncle.com/*
 *://*.sqwudong.com/*
 *://*.sr-sc.com/*
@@ -3134,6 +3143,7 @@
 *://*.www.218407.com/*
 *://*.www.2832.com.cn/*
 *://*.www.3062.net.cn/*
+*://*.www.365seal.com/*
 *://*.www.3672js.com/*
 *://*.www.3chy2.com.tw/*
 *://*.www.3jwz.com/*
@@ -3163,6 +3173,7 @@
 *://*.www.cxybb.com/*
 *://*.www.cxymm.net/*
 *://*.www.d3it.cn/*
+*://*.www.delftstack.com/*
 *://*.www.dglktt.com/*
 *://*.www.dmozdir.org/*
 *://*.www.download2me.com/*
@@ -3170,11 +3181,15 @@
 *://*.www.dxjiadian.com/*
 *://*.www.eeq8.com/*
 *://*.www.extutorial.com/*
+*://*.www.geyinban.net/*
 *://*.www.ghcc.net/*
+*://*.www.gpd.world/*
 *://*.www.helplib.cn/*
 *://*.www.hoozi.com.cn/*
 *://*.www.hss19.cn/*
+*://*.www.huaweicloud.com/theme/*
 *://*.www.i4k.xyz/*
+*://*.www.initroot.com/*
 *://*.www.it-swarm.cn/*
 *://*.www.itbear.com.cn/*
 *://*.www.itxinwen.com.cn/*
@@ -3184,6 +3199,7 @@
 *://*.www.kocpc.com.tw/*
 *://*.www.kvkft.com/*
 *://*.www.lccnet.com.tw/*
+*://*.www.lovelycxy.com/*
 *://*.www.mdbsg.com/*
 *://*.www.meilizao.com/*
 *://*.www.muzijie.com/*
@@ -3198,6 +3214,7 @@
 *://*.www.shellfishsoft.com/*
 *://*.www.sinchew.com.my/*
 *://*.www.sjzshuangba.com/*
+*://*.www.songbingjia.com/*
 *://*.www.talex-soft.com/*
 *://*.www.taoguba.com.cn/*
 *://*.www.uml.org.cn/*
@@ -3484,6 +3501,7 @@
 *://*.zh-hant.hotbak.net/*
 *://*.zh.codepre.com/*
 *://*.zh.info-about.info/*
+*://*.zh.quish.tv/*
 *://*.zh.wikihow.com/*
 *://*.zhaihai.com/*
 *://*.zhajun.com/*
