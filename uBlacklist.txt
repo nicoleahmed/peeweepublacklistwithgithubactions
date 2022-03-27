@@ -3198,6 +3198,7 @@
 *://*.www.kejisen.com/*
 *://*.www.kocpc.com.tw/*
 *://*.www.kvkft.com/*
+*://*.www.laitimes.com/*
 *://*.www.lccnet.com.tw/*
 *://*.www.lovelycxy.com/*
 *://*.www.mdbsg.com/*
