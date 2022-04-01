@@ -2363,6 +2363,7 @@
 *://*.q8ab.com/*
 *://*.qa.1r1g.cn/*
 *://*.qa.1r1g.com/*
+*://*.qa.icopy.site/*
 *://*.qafone.co/*
 *://*.qastack.cn/*
 *://*.qb5200.com/*
@@ -3185,6 +3186,7 @@
 *://*.www.geyinban.net/*
 *://*.www.ghcc.net/*
 *://*.www.gpd.world/*
+*://*.www.hellocxy.com/*
 *://*.www.helplib.cn/*
 *://*.www.hoozi.com.cn/*
 *://*.www.hss19.cn/*
@@ -3201,6 +3203,7 @@
 *://*.www.kvkft.com/*
 *://*.www.laitimes.com/*
 *://*.www.lccnet.com.tw/*
+*://*.www.lmlphp.com/*
 *://*.www.lovelycxy.com/*
 *://*.www.manbcode.com/*
 *://*.www.mdbsg.com/*
@@ -3220,6 +3223,7 @@
 *://*.www.songbingjia.com/*
 *://*.www.talex-soft.com/*
 *://*.www.taoguba.com.cn/*
+*://*.www.u19.cn/*
 *://*.www.uml.org.cn/*
 *://*.www.uni-ustyle.com.tw/*
 *://*.www.v2as.com/*
@@ -3243,6 +3247,7 @@
 *://*.www.ypisoft.esy.es/*
 *://*.www.yzktw.com.cn/*
 *://*.www.zcool.com.cn/*
+*://*.www.zgxue.com/*
 *://*.www.zhuchaoyouxi.com/*
 *://*.www3.udpdu.com/*
 *://*.wwwbuild.net/*
