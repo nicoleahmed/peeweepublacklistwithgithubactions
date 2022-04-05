@@ -3910,6 +3910,7 @@
 *://article.docway.net/*
 *://ask-dev.ru/*
 *://ask.zol.com.cn/*
+*://askcodez.com/*
 *://askdev.vn/*
 *://au5u.cndck.cn/*
 *://av.x-videos-porn.com/*
