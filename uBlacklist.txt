@@ -1512,7 +1512,6 @@
 *://*.iosre.com/*
 *://*.ipdrivers.com/*
 *://*.ipfsdrop.com/*
-*://*.iqiyi.com/*
 *://*.ironbuffalocomics.com/*
 *://*.ishenping.com/*
 *://*.isky.ltd/*
