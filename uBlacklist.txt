@@ -2180,6 +2180,7 @@
 *://*.notwiki.cn/*
 *://*.novascotiascott.com/*
 *://*.nrgmmu.net/*
+*://*.ntcdoon.org/*
 *://*.ntustsg.com/*
 *://*.nutritiontheatre.com/*
 *://*.nwuja.com/*
@@ -4098,6 +4099,7 @@
 *://iknow.baidu.com/*
 *://il9yj83.com/*
 *://intellipaat.com/*
+*://iquestion.pro/*
 *://isolution.pro/*
 *://issueexplorer.com/*
 *://issuehunt.io/*
@@ -4366,6 +4368,7 @@
 *://pogy.nicovanderhouwen.nl/*
 *://pretagteam.com/*
 *://progi.pro/*
+*://programmierfrage.com/*
 *://pu.link/*
 *://python-stack.de/*
 *://pythonissues.com/*
