@@ -353,6 +353,7 @@
 *://*.a1fz.com/*
 *://*.a372.cn/*
 *://*.a5xiazai.com/*
+*://*.a7a7.net/*
 *://*.aaamhh.com/*
 *://*.aaiv.net/*
 *://*.aasou.cc/*
@@ -534,6 +535,7 @@
 *://*.biabu.com.cn/*
 *://*.biancheng.45soft.com/*
 *://*.biancheng.dnbcw.net/*
+*://*.bicbc.com/*
 *://*.biecuoliao.com/*
 *://*.big-tits-and-round-asses.com/*
 *://*.bigdatabuy.com/*
@@ -647,6 +649,7 @@
 *://*.caeoa.org/*
 *://*.cafegatto.com/*
 *://*.cagmbh.com/*
+*://*.caibaojian.com.cn/*
 *://*.caibaojian.com/*
 *://*.caicaipc.com/*
 *://*.caihonggang.com/*
@@ -1567,6 +1570,7 @@
 *://*.its404.com/*
 *://*.its500.com/*
 *://*.itspxx.com/*
+*://*.ittiantang.com/*
 *://*.ittribalwo.com/*
 *://*.itw01.com/*
 *://*.itxm.net/*
@@ -1830,6 +1834,7 @@
 *://*.lighteningtikes.com/*
 *://*.lightfly.com.cn/*
 *://*.liiix.com/*
+*://*.liitk.com/*
 *://*.likecs.com/*
 *://*.likeji.net/*
 *://*.limbopro.xyz/*
@@ -2499,6 +2504,7 @@
 *://*.s.nongjia888.com/*
 *://*.s.weibo.com/*
 *://*.s0898.com/*
+*://*.s5t.com/*
 *://*.sadyr.party/*
 *://*.saerim.net/*
 *://*.safehavenpetrescue.org/*
@@ -3387,6 +3393,7 @@
 *://*.yiemu.com/*
 *://*.yifx.cc/*
 *://*.yigujin.cn/*
+*://*.yigxz.com/*
 *://*.yiidian.com/*
 *://*.yiihuu.com/*
 *://*.yijyigo.com/*
@@ -3428,6 +3435,7 @@
 *://*.yon.hk/*
 *://*.yoneihan.com/*
 *://*.youbaobao.xyz/*
+*://*.youfanzi.cn/*
 *://*.yougaowang.com/*
 *://*.youmazhan.com/*
 *://*.yourbusinessmind.de/*
@@ -3526,6 +3534,7 @@
 *://*.zhengrongshuo.com/*
 *://*.zhengwangsuye.com/*
 *://*.zhenhesaun.com/*
+*://*.zhetengmao.com/*
 *://*.zhihu.la/*
 *://*.zhihujingxuan.com/*
 *://*.zhinan.sogou.com/*
