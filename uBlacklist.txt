@@ -4059,6 +4059,7 @@
 *://github.innominds.com/*
 *://githubhelp.com/*
 *://githubja.com/*
+*://githublab.com/*
 *://githubmemory.com/*
 *://githubplus.com/*
 *://gitmemory.cn/*
