@@ -61,6 +61,7 @@
 *://*.123boma.com/*
 *://*.125135.com/*
 *://*.128ic.com/*
+*://*.129.226.226.195/*
 *://*.12dy.com/*
 *://*.13419.com/*
 *://*.136.la/*
@@ -189,6 +190,7 @@
 *://*.4133.cc/*
 *://*.4382.loan/*
 *://*.4399sz.com/*
+*://*.45.76.17.132/*
 *://*.4563.org/*
 *://*.45ma.com/*
 *://*.4659866.com/*
@@ -535,6 +537,7 @@
 *://*.biabu.com.cn/*
 *://*.biancheng.45soft.com/*
 *://*.biancheng.dnbcw.net/*
+*://*.bianmawd.cc/*
 *://*.bicbc.com/*
 *://*.biecuoliao.com/*
 *://*.big-tits-and-round-asses.com/*
@@ -608,6 +611,7 @@
 *://*.bostersoft.com/*
 *://*.bountysource.com/issues/*
 *://*.boxuegu.com/*
+*://*.bqtt.cc/*
 *://*.bransonluxurylodging.com/*
 *://*.brbtyt.com/*
 *://*.bridgeportmilitaryacademy.net/*
@@ -763,6 +767,7 @@
 *://*.cn.pinlivingcolor.com/*
 *://*.cn.sanchezsalvador.com/*
 *://*.cn.siwib.org/*
+*://*.cn.skydivenewmarket.com/*
 *://*.cn.smnggeophysics.com/*
 *://*.cn.sunflowercreations.org/*
 *://*.cn.transcend-info.com/*
@@ -851,6 +856,7 @@
 *://*.cxybb.com/*
 *://*.cxybl.com/*
 *://*.cxymm.net/*
+*://*.cxywk.com/*
 *://*.cxyzjd.com/*
 *://*.cy-hl.com/*
 *://*.cybei.com/*
@@ -1143,6 +1149,7 @@
 *://*.forum.vi-mm.eu/*
 *://*.fpmth.com/*
 *://*.fpppw.com/*
+*://*.frameboxxindore.com/*
 *://*.freax.be/*
 *://*.free-lunwen.com/*
 *://*.free.com.tw/*
@@ -1176,6 +1183,7 @@
 *://*.fzjk.kxhsm.top/*
 *://*.g.mh456.com/*
 *://*.g.xker.com/*
+*://*.g13.baidu.com/*
 *://*.gaaf.klvgb.loan/*
 *://*.gadgetarq.com/*
 *://*.gadgetstroop.com/*
@@ -1923,6 +1931,7 @@
 *://*.m.cfan.com.cn/*
 *://*.m.cgmodel.com/*
 *://*.m.chashebao.com/*
+*://*.m.cnjita.com/*
 *://*.m.copyan.com/*
 *://*.m.cyhs888.com/*
 *://*.m.dgxhskkj.com/*
@@ -1971,6 +1980,7 @@
 *://*.m.tuituisoft.com/*
 *://*.m.v3nue.com/*
 *://*.m.wenda.so.com/*
+*://*.m.xiaodongdz.com/*
 *://*.m.xing73.com/*
 *://*.m.xp.cn/*
 *://*.m.xuexi.la/*
@@ -2047,6 +2057,7 @@
 *://*.mimeplay.club/*
 *://*.minimidimaxidress.com/*
 *://*.mirgpro.ru/*
+*://*.mississippifaithinaction.org/*
 *://*.misterzeng.com/*
 *://*.mitchsmotorcycles.com/*
 *://*.mittagongmultimedia.com/*
@@ -2166,6 +2177,7 @@
 *://*.njrbk.com/*
 *://*.njxhmbj.com/*
 *://*.njyyjsxx.com/*
+*://*.nksou.cc/*
 *://*.nmdx-crystal.com.cn/*
 *://*.nmhjw.cn/*
 *://*.noblenaz.org/*
@@ -2182,6 +2194,7 @@
 *://*.nrgmmu.net/*
 *://*.ntcdoon.org/*
 *://*.ntustsg.com/*
+*://*.nuomiphp.com/*
 *://*.nutritiontheatre.com/*
 *://*.nwuja.com/*
 *://*.nxtoten.com/*
@@ -2271,6 +2284,7 @@
 *://*.parkous.com/*
 *://*.paruze.com/*
 *://*.pblcode.com/*
+*://*.pbup.cc/*
 *://*.pc-daily.com/*
 *://*.pc.geren-jianli.org/*
 *://*.pc6.com/*
@@ -2310,6 +2324,7 @@
 *://*.pitalitobicentenario.com/*
 *://*.pjmrw.cn/*
 *://*.pjszy.com/*
+*://*.pknn.cc/*
 *://*.pktl.net/*
 *://*.placeandmap.com/*
 *://*.planetarium-list.com/*
@@ -2542,6 +2557,7 @@
 *://*.sdwyqb.com/*
 *://*.sdzbyzjx.com/*
 *://*.sdzwhmw.com/*
+*://*.search.bilibili.com/*
 *://*.search.discuz.qq.com/*
 *://*.sebastianyepesdesign.com/*
 *://*.secn.net/*
@@ -2879,6 +2895,7 @@
 *://*.topsensemd.com/*
 *://*.toranj-co.com/*
 *://*.tourcoder.com/*
+*://*.tousu.in/*
 *://*.toutiao.io/*
 *://*.toutiao.sogou.com/*
 *://*.tpiorg.com/*
@@ -3146,6 +3163,7 @@
 *://*.ww1.viciousink.net/*
 *://*.wwtw.yeane.top/*
 *://*.www-54197.com/*
+*://*.www.123admin.com/*
 *://*.www.136.la/*
 *://*.www.218407.com/*
 *://*.www.2832.com.cn/*
@@ -3154,12 +3172,14 @@
 *://*.www.3672js.com/*
 *://*.www.3chy2.com.tw/*
 *://*.www.3jwz.com/*
+*://*.www.3qphp.com/*
 *://*.www.4k8k.xyz/*
 *://*.www.5577.com/*
 *://*.www.58codes.com/*
 *://*.www.6400.net.cn/*
 *://*.www.6ymw.com/*
 *://*.www.818322.com/*
+*://*.www.88vap.com/*
 *://*.www.985ys.com/*
 *://*.www.adawod.com/*
 *://*.www.aikaiyuan.com/*
@@ -3187,6 +3207,7 @@
 *://*.www.download2me.com/*
 *://*.www.dvy.com.cn/*
 *://*.www.dxjiadian.com/*
+*://*.www.easesdk.com/*
 *://*.www.eeq8.com/*
 *://*.www.extutorial.com/*
 *://*.www.geyinban.net/*
@@ -3204,6 +3225,7 @@
 *://*.www.itxinwen.com.cn/*
 *://*.www.javaheidong.com/*
 *://*.www.jksb.com.cn/*
+*://*.www.jsbgp.com/*
 *://*.www.kejisen.com/*
 *://*.www.kocpc.com.tw/*
 *://*.www.kvkft.com/*
@@ -3216,13 +3238,16 @@
 *://*.www.meilizao.com/*
 *://*.www.muzijie.com/*
 *://*.www.nap6.com/*
+*://*.www.nyzcjc.com/*
 *://*.www.pconline.com.cn/*
 *://*.www.pingtaimeng.com/*
+*://*.www.proyy.com/*
 *://*.www.pwelder.com/*
 *://*.www.q578.com/*
 *://*.www.richesinfo.com.tw/*
 *://*.www.ruten.com.tw/*
 *://*.www.samilapizza.com/*
+*://*.www.saoniuhuo.com/*
 *://*.www.shellfishsoft.com/*
 *://*.www.sinchew.com.my/*
 *://*.www.sjzshuangba.com/*
@@ -3230,6 +3255,7 @@
 *://*.www.talex-soft.com/*
 *://*.www.taoguba.com.cn/*
 *://*.www.u19.cn/*
+*://*.www.ucloud.cn/*
 *://*.www.uml.org.cn/*
 *://*.www.uni-ustyle.com.tw/*
 *://*.www.v2as.com/*
@@ -3248,6 +3274,7 @@
 *://*.www.xunii.com/*
 *://*.www.yalewoo.com/*
 *://*.www.ydxpt.com/*
+*://*.www.yingtwo.com/*
 *://*.www.yisu.com/*
 *://*.www.youchuang365.com/*
 *://*.www.ypisoft.esy.es/*
@@ -3536,6 +3563,7 @@
 *://*.zhengwangsuye.com/*
 *://*.zhenhesaun.com/*
 *://*.zhetengmao.com/*
+*://*.zhidao.baidu.com/index/?word=*/*
 *://*.zhihu.la/*
 *://*.zhihujingxuan.com/*
 *://*.zhinan.sogou.com/*
