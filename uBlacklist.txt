@@ -4086,6 +4086,7 @@
 *://giters.com/*
 *://github.innominds.com/*
 *://githubhelp.com/*
+*://githubhot.com/*
 *://githubja.com/*
 *://githublab.com/*
 *://githubmemory.com/*
