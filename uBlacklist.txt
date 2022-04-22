@@ -482,6 +482,7 @@
 *://*.baidu.com.se/*
 *://*.baidu.com.swd1rsv_spt1rsv_iqid.1234on.com/*
 *://*.baidu.com.txzer.com/*
+*://*.baidu.com/s?word=*
 *://*.baidu.com/search?word=*
 *://*.baidu.fileso.com/*
 *://*.baidu.mx/*
@@ -2227,6 +2228,7 @@
 *://*.ok165.com/*
 *://*.okzixun.net/*
 *://*.oliobonamini.com/*
+*://*.olzl.net/*
 *://*.omatomeloanhikaku.com/*
 *://*.omniwise.com.tw/*
 *://*.oneho.cn/*
