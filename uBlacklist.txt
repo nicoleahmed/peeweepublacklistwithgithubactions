@@ -4091,6 +4091,7 @@
 *://githubhot.com/*
 *://githubja.com/*
 *://githublab.com/*
+*://githubmate.com/*
 *://githubmemory.com/*
 *://githubplus.com/*
 *://gitmemory.cn/*
