@@ -447,6 +447,7 @@
 *://*.aptvgo.com/*
 *://*.archtek.com.tw/*
 *://*.arip-photo.org/*
+*://*.arkanhospitals.com/*
 *://*.armgs.com/*
 *://*.art2008.net/*
 *://*.article.docway.net/*
@@ -1212,6 +1213,7 @@
 *://*.gaogevip.com/*
 *://*.gaojiq.cn/*
 *://*.gapemill.com/*
+*://*.gardaseepanorama.de/*
 *://*.gateway.web.tr/*
 *://*.gaydamax.com/*
 *://*.gbfgg.cn/*
@@ -1598,6 +1600,7 @@
 *://*.its500.com/*
 *://*.itspxx.com/*
 *://*.ittiantang.com/*
+*://*.ittone.ma/*
 *://*.ittribalwo.com/*
 *://*.itw01.com/*
 *://*.itxm.net/*
@@ -2279,6 +2282,7 @@
 *://*.ouiot.com/*
 *://*.ourjs.com/*
 *://*.ourladylakes.org/*
+*://*.outofmemory.cn/*
 *://*.outshine.cn/*
 *://*.ouyiyule8.com/*
 *://*.ov333.com/*
@@ -3039,6 +3043,7 @@
 *://*.vip.gxlcms.com/*
 *://*.vipcn.com/*
 *://*.visionaras.com/*
+*://*.vj04.com/*
 *://*.vjsun.com/*
 *://*.vk-c.net/*
 *://*.vlambda.com/*
@@ -3220,6 +3225,7 @@
 *://*.www.alexwz.com/*
 *://*.www.amhnn.com/*
 *://*.www.app-good.com/*
+*://*.www.apude.com/*
 *://*.www.babyitellyou.com/*
 *://*.www.babylonjs.com.cn/*
 *://*.www.bianchengquan.com/*
@@ -3255,6 +3261,7 @@
 *://*.www.i4k.xyz/*
 *://*.www.initroot.com/*
 *://*.www.it-swarm.cn/*
+*://*.www.it1946.com/*
 *://*.www.itbear.com.cn/*
 *://*.www.itxinwen.com.cn/*
 *://*.www.javaheidong.com/*
@@ -3274,6 +3281,7 @@
 *://*.www.nap6.com/*
 *://*.www.nyzcjc.com/*
 *://*.www.pconline.com.cn/*
+*://*.www.pcppw.com/*
 *://*.www.pingtaimeng.com/*
 *://*.www.proyy.com/*
 *://*.www.pwelder.com/*
@@ -3285,7 +3293,9 @@
 *://*.www.shellfishsoft.com/*
 *://*.www.sinchew.com.my/*
 *://*.www.sjzshuangba.com/*
+*://*.www.sole-verde.com/*
 *://*.www.songbingjia.com/*
+*://*.www.superweb999.com/*
 *://*.www.talex-soft.com/*
 *://*.www.taoguba.com.cn/*
 *://*.www.u19.cn/*
@@ -3312,6 +3322,7 @@
 *://*.www.yisu.com/*
 *://*.www.youchuang365.com/*
 *://*.www.ypisoft.esy.es/*
+*://*.www.ytso.com/*
 *://*.www.yzktw.com.cn/*
 *://*.www.zcool.com.cn/*
 *://*.www.zgxue.com/*
