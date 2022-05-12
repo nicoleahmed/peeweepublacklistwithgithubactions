@@ -4034,6 +4034,7 @@
 *://c9k009.hshkmm.icu/*
 *://caanet.org.cn/*
 *://cainiaojiaocheng.com/*
+*://catwolf.org/*
 *://cctsuzhou.cn/*
 *://cdjbuy.com/*
 *://cfemag.com.cn/*
@@ -4080,7 +4081,9 @@
 *://dafx.cc/*
 *://ddxiangmu.com/*
 *://ddyy225.com/*
+*://de-vraag.com/*
 *://devbugfix.com/*
+*://devdreamz.com/*
 *://developer.aliyun.com/article/*
 *://dhzls.fmtvsat.com/*
 *://diannaoshiyong.com/*
@@ -4525,6 +4528,7 @@
 *://store.argoyachtclub.com.tw/*
 *://stormcrow.dev/*
 *://streamroll.ukaty.ru/*
+*://string.quest/*
 *://support.huaweicloud.com/topic/*
 *://sxcntv.com/*
 *://sysadminde.com/*
