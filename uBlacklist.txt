@@ -5062,6 +5062,7 @@
 *://www.wanyx.com/*
 *://www.wbelp.com/*
 *://www.wdace.com/*
+*://www.web-dev-qa-db-ja.com/*
 *://www.web-dev-qa.com/*
 *://www.webdevqa.jp.net/*
 *://www.webplus.org.cn/*
