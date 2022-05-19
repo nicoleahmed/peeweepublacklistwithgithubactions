@@ -4117,6 +4117,7 @@
 *://fooobar.com/*
 *://freetribe.me/*
 *://ftll.libelluladepressa.nl/*
+*://fullstackuser.com/*
 *://fuwuqizhijia.com/*
 *://fxrw.izwawv.cn/*
 *://fxua.cndck.cn/*
