@@ -4462,6 +4462,7 @@
 *://q-5.net/*
 *://q6sr6.951779.vip/*
 *://qa-stack.pl/*
+*://qa.icopy.site/*
 *://qapicks.com/*
 *://qastack.cn/*
 *://qastack.co.in/*
@@ -4489,6 +4490,7 @@
 *://question-it.com/*
 *://qyhr.uk.com/*
 *://read678.com/*
+*://reddit.fun/*
 *://reposhub.com/*
 *://rkbsood.com/*
 *://roov.org/*
