@@ -4508,6 +4508,7 @@
 *://search.zonealarm.com/*
 *://seekplay.online/*
 *://seigler.kor-trade.ru/*
+*://serveanswer.com/*
 *://share.wukongwenda.cn/*
 *://shengqian001.com/*
 *://shequditu.com/*
