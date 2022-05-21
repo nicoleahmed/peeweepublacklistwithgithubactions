@@ -4061,6 +4061,7 @@
 *://code.i-harness.com/*
 *://codecocoa.com/*
 *://codefaq.ru/*
+*://codegrepr.com/*
 *://codeguides.site/*
 *://codehero.jp/*
 *://coder-solution-jp.com/*
@@ -4103,6 +4104,7 @@
 *://eobt.astrologe-instituutsandra.nl/*
 *://epaper.mrjjxw.com/*
 *://erof.icu/*
+*://errorsfixing.com/*
 *://eutorxgol.web.app/*
 *://exceptionshub.com/*
 *://f19khj.565875.vip/*
@@ -4533,6 +4535,7 @@
 *://string.quest/*
 *://support.huaweicloud.com/topic/*
 *://sxcntv.com/*
+*://syntaxfix.com/*
 *://sysadminde.com/*
 *://syslyl.com/*
 *://syy37.com/*
