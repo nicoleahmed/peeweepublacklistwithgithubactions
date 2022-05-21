@@ -4109,7 +4109,6 @@
 *://f5g.291873.vip/*
 *://f6k5kv.736383.vip/*
 *://fakeoakleyss.com/*
-*://farath.com/*
 *://fcsbm.org/*
 *://fepch.org/*
 *://fkgvsu.951779.vip/*
@@ -4598,7 +4597,6 @@
 *://wap.zol.com.cn/*
 *://web.xkyn.net/*
 *://webdevdesigner.com/*
-*://webmonkez.com/*
 *://websou.cc/*
 *://weekly.pkulaw.cn/*
 *://weiboros4b.cn/*
@@ -5065,6 +5063,7 @@
 *://www.wanyx.com/*
 *://www.wbelp.com/*
 *://www.wdace.com/*
+*://www.web-dev-qa-db-fr.com/*
 *://www.web-dev-qa-db-ja.com/*
 *://www.web-dev-qa-db-pt.com/*
 *://www.web-dev-qa.com/*
