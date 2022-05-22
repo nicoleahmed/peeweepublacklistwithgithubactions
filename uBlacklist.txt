@@ -4464,6 +4464,7 @@
 *://q6sr6.951779.vip/*
 *://qa-stack.pl/*
 *://qa.icopy.site/*
+*://qa.ostack.cn/*
 *://qapicks.com/*
 *://qastack.cn/*
 *://qastack.co.in/*
@@ -4610,6 +4611,7 @@
 *://win10set.com/*
 *://woke.lean5sigma.nl/*
 *://wsgs.africacook.fr/*
+*://wujigu.com/*
 *://wuvu.secondlifeproducts.nl/*
 *://wve.cvyks.cn/*
 *://ww.elliezo.com/*
