@@ -295,6 +295,7 @@
 *://*.75yy.com/*
 *://*.777xz.com/*
 *://*.77tui.cn/*
+*://*.7880151.com/*
 *://*.793985.com/*
 *://*.796t.com/*
 *://*.79tui.com/*
@@ -1015,6 +1016,7 @@
 *://*.duboot.com/*
 *://*.dunstanhardcastle.com/*
 *://*.duoduohelp.com/*
+*://*.duoke360.com/*
 *://*.duonao.cc/*
 *://*.duote.com/*
 *://*.dushiliangpin.com/*
@@ -1200,6 +1202,7 @@
 *://*.g.mh456.com/*
 *://*.g.xker.com/*
 *://*.g13.baidu.com/*
+*://*.g9.baidu.com/*
 *://*.gaaf.klvgb.loan/*
 *://*.gadgetarq.com/*
 *://*.gadgetstroop.com/*
@@ -2000,6 +2003,7 @@
 *://*.m.studyofnet.com/*
 *://*.m.systemcity.cn/*
 *://*.m.taoqqba.com/*
+*://*.m.toutiao.com/*
 *://*.m.tribias.com/*
 *://*.m.tuituisoft.com/*
 *://*.m.v3nue.com/*
@@ -2024,6 +2028,7 @@
 *://*.macauticket.com/*
 *://*.machbbs.com/*
 *://*.machididi.com/*
+*://*.mahu520.com/*
 *://*.mai520.cn/*
 *://*.mamaza.com/*
 *://*.mamicode.com/*
@@ -2384,6 +2389,7 @@
 *://*.programming.vip/*
 *://*.programminghunter.com/*
 *://*.programtip.com/*
+*://*.progsoft.net/*
 *://*.projectbackpack.org/*
 *://*.projectservers.net/*
 *://*.psgy.qqabf.download/*
@@ -2625,6 +2631,7 @@
 *://*.shcg.cn/*
 *://*.shcml.com/*
 *://*.shdisheng.cn/*
+*://*.sheiwai.com/*
 *://*.shejiaodianshangshishenme.com/*
 *://*.shejizixue.com/*
 *://*.shen-zhan.com/*
@@ -2789,6 +2796,7 @@
 *://*.stellavingzeinternational.com/*
 *://*.stor.51cto.com/*
 *://*.storewes.com/*
+*://*.string.quest/*
 *://*.subversionromance.com/*
 *://*.sucai58.com/*
 *://*.sugarfree-photo.com/*
@@ -3207,6 +3215,7 @@
 *://*.www.218407.com/*
 *://*.www.2832.com.cn/*
 *://*.www.3062.net.cn/*
+*://*.www.34yu.com/*
 *://*.www.365seal.com/*
 *://*.www.3672js.com/*
 *://*.www.3chy2.com.tw/*
@@ -3220,6 +3229,7 @@
 *://*.www.818322.com/*
 *://*.www.88vap.com/*
 *://*.www.985ys.com/*
+*://*.www.a8u.net/*
 *://*.www.adawod.com/*
 *://*.www.aikaiyuan.com/*
 *://*.www.alexwz.com/*
@@ -3228,18 +3238,24 @@
 *://*.www.apude.com/*
 *://*.www.babyitellyou.com/*
 *://*.www.babylonjs.com.cn/*
+*://*.www.bajiaoyingshi.com/*
 *://*.www.bianchengquan.com/*
+*://*.www.bieguolaia.com/*
 *://*.www.bjnews.com.cn/*
+*://*.www.bullforyou.com/*
 *://*.www.bytev.com.cn/*
 *://*.www.canterburyedu.com/*
 *://*.www.castt.ac.cn/*
 *://*.www.catalina.com.cn/*
+*://*.www.chabuduoyang.com/*
 *://*.www.chenxm.cc/*
 *://*.www.codebili.com/*
 *://*.www.codegrepper.com/*
 *://*.www.cxybb.com/*
+*://*.www.cxyck.com/*
 *://*.www.cxymm.net/*
 *://*.www.d3it.cn/*
+*://*.www.dahuazixun.site/*
 *://*.www.daimazhu.com/*
 *://*.www.delftstack.com/*
 *://*.www.dglktt.com/*
@@ -3249,7 +3265,10 @@
 *://*.www.dxjiadian.com/*
 *://*.www.easesdk.com/*
 *://*.www.eeq8.com/*
+*://*.www.eliveint.com/*
+*://*.www.estore-1.com/*
 *://*.www.extutorial.com/*
+*://*.www.gergj.top/*
 *://*.www.geyinban.net/*
 *://*.www.ghcc.net/*
 *://*.www.gpd.world/*
@@ -3259,9 +3278,11 @@
 *://*.www.hss19.cn/*
 *://*.www.huaweicloud.com/theme/*
 *://*.www.i4k.xyz/*
+*://*.www.icodebang.com/*
 *://*.www.initroot.com/*
 *://*.www.it-swarm.cn/*
 *://*.www.it1946.com/*
+*://*.www.it610.com/*
 *://*.www.itbear.com.cn/*
 *://*.www.itxinwen.com.cn/*
 *://*.www.javaheidong.com/*
@@ -3285,14 +3306,18 @@
 *://*.www.pingtaimeng.com/*
 *://*.www.proyy.com/*
 *://*.www.pwelder.com/*
+*://*.www.py5k.com/*
 *://*.www.q578.com/*
 *://*.www.richesinfo.com.tw/*
+*://*.www.rongyidagl.com/*
+*://*.www.ruipinad.com/*
 *://*.www.ruten.com.tw/*
 *://*.www.samilapizza.com/*
 *://*.www.saoniuhuo.com/*
 *://*.www.shellfishsoft.com/*
 *://*.www.sinchew.com.my/*
 *://*.www.sjzshuangba.com/*
+*://*.www.skbkd.top/*
 *://*.www.sole-verde.com/*
 *://*.www.songbingjia.com/*
 *://*.www.superweb999.com/*
