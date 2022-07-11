@@ -437,6 +437,7 @@
 *://*.anipi.org/*
 *://*.anitadreamhotel.com/*
 *://*.anlon.com.tw/*
+*://*.answacode.com/*
 *://*.answer-id.com/*
 *://*.answerlib.com/*
 *://*.answiz.com/*
@@ -1611,6 +1612,7 @@
 *://*.ite51.com/*
 *://*.itectec.com/*
 *://*.iter01.com/*
+*://*.iteramos.com/*
 *://*.itest.info/*
 *://*.iteye.com/*
 *://*.ithelp.ithome.com.tw/*
@@ -3290,6 +3292,7 @@
 *://*.wtsearch.cc/*
 *://*.wui5.com/*
 *://*.wuji8.com/*
+*://*.wujigu.com/*
 *://*.wuma.cnvf.org/*
 *://*.wumeiyoupin.com/*
 *://*.ww1.viciousink.net/*
@@ -4185,12 +4188,12 @@
 *://aid7yi.291827.vip/*
 *://aihao8w.com/*
 *://aiox.sameninnop.nl/*
+*://ajaxhispano.com/*
 *://akuu.verfjevrij.nl/*
 *://akxs52.neyen.cn/*
 *://aloomrugco.com/*
 *://amcp495.com/*
 *://another.shuaizhua.cn/*
-*://answacode.com/*
 *://answer-id.com/*
 *://app.wapiknow.baidu.com/*
 *://artez.org.cn/*
@@ -4259,6 +4262,7 @@
 *://codefaq.ru/*
 *://codegrepr.com/*
 *://codeguides.site/*
+*://coder-solution-es.com/*
 *://coderedirect.com/*
 *://coderoad.ru/*
 *://colombogazette.com/*
@@ -4273,6 +4277,7 @@
 *://dafengchekatong.com/*
 *://dafx.cc/*
 *://dailydevsblog.com/*
+*://daplus.net/*
 *://ddxiangmu.com/*
 *://ddyy225.com/*
 *://de-vraag.com/*
@@ -4280,9 +4285,11 @@
 *://developer.aliyun.com/article/*
 *://dhzls.fmtvsat.com/*
 *://diannaoshiyong.com/*
+*://digitrain.ru/*
 *://digwow.net/*
 *://dlcswm.com/*
 *://dllvtao.com/*
+*://doraprojects.net/*
 *://down.tencent.pp.ua/*
 *://dsyzmn.icu/*
 *://dt.pckoubei.cn/*
@@ -4377,6 +4384,7 @@
 *://issuehunt.io/*
 *://it.ping-jia.net/*
 *://it889.com/*
+*://itecnote.com/*
 *://itectec.com/*
 *://ivyyyyyyyypapapa.lofter.com/*
 *://ixii.cc/*
@@ -4387,6 +4395,7 @@
 *://jiankang.pai-hang-bang.cn/*
 *://jike.in/*
 *://jiul.vane-vis.nl/*
+*://jonic.cn/*
 *://jordan7sweater.com/*
 *://jpdebug.com/*
 *://jrccn.cn/*
@@ -4578,6 +4587,7 @@
 *://nuomil.com/*
 *://nxwmh.udublw.cn/*
 *://odmch.com/*
+*://oomake.com/*
 *://openprojectrepo.com/*
 *://opensourcelibs.com/*
 *://ostack.cn/*
@@ -4630,11 +4640,13 @@
 *://p71.zcpc.cn.com/*
 *://pai-hang-bang.com/*
 *://passion-meeting.site/*
+*://peaku.co/*
 *://pkr.ncxzryg.com/*
 *://pleaseobserve.am-t.ru/*
 *://pmdl.com.au/*
 *://pogy.nicovanderhouwen.nl/*
 *://progi.pro/*
+*://prograide.com/*
 *://programmierfrage.com/*
 *://pu.link/*
 *://pythonissues.com/*
@@ -4669,6 +4681,7 @@
 *://qmxn.globalaura.nl/*
 *://quabr.com/*
 *://question-it.com/*
+*://questu.ru/*
 *://qyhr.uk.com/*
 *://read678.com/*
 *://reddit.fun/*
@@ -4698,8 +4711,10 @@
 *://sm.cn.shenma7786.com/*
 *://so.cnwuye.com/*
 *://so.gamersky.com/*
+*://so.muouseo.com/*
 *://softwarebrother.com/*
 *://sogaweb.com/*
+*://solveforum.com/*
 *://sqlite.in/*
 *://ssgold9999.com/*
 *://stackfinder.jp.net/*
@@ -4717,6 +4732,7 @@
 *://syslyl.com/*
 *://syy37.com/*
 *://tag.todohealth.com/*
+*://tagsqa.com/*
 *://tgshenghe.com/*
 *://theater.jon-rey.com/*
 *://thinkinsource.com/*
@@ -4786,7 +4802,6 @@
 *://win10set.com/*
 *://woke.lean5sigma.nl/*
 *://wsgs.africacook.fr/*
-*://wujigu.com/*
 *://wuvu.secondlifeproducts.nl/*
 *://wve.cvyks.cn/*
 *://ww.elliezo.com/*
@@ -4866,6 +4881,7 @@
 *://www.anhuilife.com/*
 *://www.anlifilm.com/*
 *://www.answerlib.com/*
+*://www.anycodings.com/*
 *://www.aphhh.com/*
 *://www.app-good.com/*
 *://www.arhivo.com/*
@@ -4922,6 +4938,7 @@
 *://www.cjpt.cn/*
 *://www.ckwc.cc/*
 *://www.cnpython.com/qa/*
+*://www.codebaoku.com/*
 *://www.codenong.com/*
 *://www.coder.work/*
 *://www.colombogazette.com/*
@@ -4958,11 +4975,14 @@
 *://www.dvjia.com/*
 *://www.dxfdc.net/*
 *://www.eamimi.com/*
+*://www.edureka.co/*
 *://www.eeq8.com/*
 *://www.ek6.com/*
 *://www.enmsb.com/*
 *://www.fahuoiio.com/*
 *://www.fanaticism.cn/*
+*://www.faqcode4u.com/*
+*://www.faqcodes.com/*
 *://www.fashaochl.com/*
 *://www.fayanboe.com/*
 *://www.fc-kf.com/*
@@ -5032,6 +5052,7 @@
 *://www.it-swarm-ja.tech/*
 *://www.it-swarm.jp.net/*
 *://www.iteye.com/*
+*://www.itranslater.com/*
 *://www.ixieme.com/*
 *://www.jamesandlydia.com/*
 *://www.javaer101.com/*
@@ -5072,6 +5093,7 @@
 *://www.kvkft.com/*
 *://www.kxxzz.com/*
 *://www.lcyacg.com/*
+*://www.learnfk.com/*
 *://www.led-e14.com/*
 *://www.lgljia.com/*
 *://www.lianhongfri.com/*
@@ -5099,6 +5121,7 @@
 *://www.mch5k.com/*
 *://www.mcwlc.com/*
 *://www.medinabazar.com/*
+*://www.mejorcodigo.com/*
 *://www.mfgqd.com/*
 *://www.mifan520.com/*
 *://www.mikageseitai.com/*
