@@ -3819,6 +3819,7 @@
 *://*.zhidao.baidu.com/index/?word=*/*
 *://*.zhihu.la/*
 *://*.zhihujingxuan.com/*
+*://*.zhilian.host/*
 *://*.zhinan.sogou.com/*
 *://*.zhipanyou.com/*
 *://*.zhishilin.com/*
@@ -4538,6 +4539,7 @@
 *://m.syesoft.com/*
 *://m.tangwangjj.com/*
 *://m.tellknow.com/*
+*://m.toutiao.com/search?keyword=*
 *://m.uaqtn.com/*
 *://m.usacnbaby.com/*
 *://m.v9gk0l.rhluurm.site/*
