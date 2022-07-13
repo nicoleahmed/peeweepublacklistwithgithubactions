@@ -79,6 +79,7 @@
 *://*.1666yl.com/*
 *://*.1688.com/*
 *://*.16885518.com/*
+*://*.16892.net/*
 *://*.168town.com/*
 *://*.169it.com/*
 *://*.16yxw.com/*
@@ -246,6 +247,7 @@
 *://*.54gcshi.com/*
 *://*.54it.top/*
 *://*.55118885.com/*
+*://*.55276.net/*
 *://*.55dm.net/*
 *://*.55mianshi.com/*
 *://*.55wenda.top/*
@@ -357,6 +359,7 @@
 *://*.99seba.com/*
 *://*.9game.cn/*
 *://*.9ht.com/*
+*://*.9ishenzhen.com/*
 *://*.9wxs.com/*
 *://*.9yyu.com/*
 *://*.a.4399.cn/*
@@ -1701,6 +1704,7 @@
 *://*.jiayicaiyin.com/*
 *://*.jiayujiancai.com/*
 *://*.jigao616.com/*
+*://*.jike.in/*
 *://*.jike666.com/*
 *://*.jilinxiaochi.com/*
 *://*.jiloc.com/*
@@ -1743,6 +1747,7 @@
 *://*.joinprojectlove.com/*
 *://*.jollyny.com/*
 *://*.jonf.info/*
+*://*.jonic.cn/*
 *://*.jooko.info/*
 *://*.jordanoliveira.com/*
 *://*.joyk.com/*
@@ -2157,6 +2162,7 @@
 *://*.mjjcpu.com/*
 *://*.mjzj.com/*
 *://*.mk2048.com/*
+*://*.mlink.in/*
 *://*.mlog.club/*
 *://*.mlog.club/article/*
 *://*.mmbyte.com/*
@@ -2319,6 +2325,7 @@
 *://*.ofstack.com/*
 *://*.ofweek.com/*
 *://*.ofwpinoyako.com/*
+*://*.ogeek.cn/*
 *://*.ogtracker.net/*
 *://*.ohoneyjade.com/*
 *://*.oicqzone.com/*
@@ -2362,6 +2369,7 @@
 *://*.ouyiyule8.com/*
 *://*.ov333.com/*
 *://*.overcoder.net/*
+*://*.overstack.in/*
 *://*.owlapps.net/*
 *://*.oxiranchem.com/*
 *://*.oxke.net/*
@@ -2506,6 +2514,7 @@
 *://*.qeto.cc/*
 *://*.qhdmitu.com/*
 *://*.qhmnls.com/*
+*://*.qi-u.com/*
 *://*.qi08.com/*
 *://*.qiain.com/*
 *://*.qiandaohutrip.cn/*
@@ -2712,6 +2721,8 @@
 *://*.shengqian001.com/*
 *://*.shengyijixie.com/*
 *://*.shenso.wang/*
+*://*.shenzhenjia.cn/*
+*://*.shenzhenjia.net/*
 *://*.sher3.com/*
 *://*.shhkhb.com/*
 *://*.shiai4444.com/*
@@ -2844,6 +2855,7 @@
 *://*.spudgreenlake.com/*
 *://*.spzjj.com/*
 *://*.sqlcodeqa.cc/*
+*://*.sqlite.in/*
 *://*.squncle.com/*
 *://*.sqwudong.com/*
 *://*.sr-sc.com/*
@@ -3128,6 +3140,9 @@
 *://*.video8496-gov.top/*
 *://*.video91.com/*
 *://*.videogametimes.com/*
+*://*.vigge.cn/*
+*://*.vigge.net/*
+*://*.vigges.net/*
 *://*.viltd.com/*
 *://*.vimsky.com/*
 *://*.vip.gxlcms.com/*
@@ -3205,6 +3220,7 @@
 *://*.ways2u.com/*
 *://*.wccmjx.com/*
 *://*.wd.haosou.com/*
+*://*.web-dev-qa-db-fra.com/*
 *://*.web.mybnb.tw/*
 *://*.webglstudy.com/*
 *://*.webhek.com/*
@@ -3616,6 +3632,7 @@
 *://*.xrbi.net/*
 *://*.xs.zhihu.la/*
 *://*.xshdkj.com/*
+*://*.xstack.ru/*
 *://*.xtoolsoft.com/*
 *://*.xtzy8.com/*
 *://*.xuanfengge.com/*
@@ -3771,6 +3788,8 @@
 *://*.z3z4.com/*
 *://*.z7yule.cn/*
 *://*.zaizaofa.com/*
+*://*.zaizhele.cn/*
+*://*.zaizhele.net/*
 *://*.zalou.cn/*
 *://*.zambj.com/*
 *://*.zaokeji.net/*
@@ -4394,9 +4413,7 @@
 *://jbh.17qq.com/*
 *://jgou.cc/*
 *://jiankang.pai-hang-bang.cn/*
-*://jike.in/*
 *://jiul.vane-vis.nl/*
-*://jonic.cn/*
 *://jordan7sweater.com/*
 *://jpdebug.com/*
 *://jrccn.cn/*
@@ -4592,7 +4609,6 @@
 *://oomake.com/*
 *://openprojectrepo.com/*
 *://opensourcelibs.com/*
-*://ostack.cn/*
 *://oukq.opdenenk.nl/*
 *://overcoder.net/*
 *://owup796.com/*
@@ -4658,7 +4674,6 @@
 *://q6sr6.951779.vip/*
 *://qa-stack.pl/*
 *://qa.icopy.site/*
-*://qa.ostack.cn/*
 *://qapicks.com/*
 *://qastack.cn/*
 *://qastack.co.in/*
@@ -4705,6 +4720,7 @@
 *://seigler.kor-trade.ru/*
 *://serveanswer.com/*
 *://share.wukongwenda.cn/*
+*://shenghuobao.net/*
 *://shengqian001.com/*
 *://shequditu.com/*
 *://shhgtech.com/*
@@ -4717,7 +4733,6 @@
 *://softwarebrother.com/*
 *://sogaweb.com/*
 *://solveforum.com/*
-*://sqlite.in/*
 *://ssgold9999.com/*
 *://stackfinder.jp.net/*
 *://stackguides.com/*
@@ -4735,6 +4750,7 @@
 *://syy37.com/*
 *://tag.todohealth.com/*
 *://tagsqa.com/*
+*://techhelpnotes.com/*
 *://tgshenghe.com/*
 *://theater.jon-rey.com/*
 *://thinkinsource.com/*
@@ -4742,7 +4758,6 @@
 *://tipsfordev.com/*
 *://tl.hndongda.com/*
 *://tongxiangcy.com/*
-*://tousu.in/*
 *://tutorialmore.com/*
 *://tv.jav-tits.com/*
 *://txbrush.cn/*
@@ -5058,6 +5073,7 @@
 *://www.ixieme.com/*
 *://www.jamesandlydia.com/*
 *://www.javaer101.com/*
+*://www.javafixing.com/*
 *://www.jb51.net/*
 *://www.jcabc.cn/*
 *://www.jfdaily.com/*
@@ -5172,7 +5188,6 @@
 *://www.pom123.com/*
 *://www.prowellhelmets.com.tw/*
 *://www.qfjhb.cn/*
-*://www.qi-u.com/*
 *://www.qianchusai.com/*
 *://www.qopaa.com/*
 *://www.qpb2b.com/*
@@ -5356,9 +5371,11 @@
 *://xinzhi.wenda.so.com/*
 *://xs22a.shidaqiche.cn/*
 *://xscode.shakuro.info/*
+*://xstack.us/*
 *://xunii.com/*
 *://xxep.atelierspring.nl/*
 *://y.qichejiashi.com/*
+*://yaoply.com/*
 *://yewood.com/*
 *://yino.plotterkleding.nl/*
 *://ylmfeng.com/*
