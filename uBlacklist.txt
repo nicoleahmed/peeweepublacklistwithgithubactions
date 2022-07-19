@@ -706,6 +706,7 @@
 *://*.cchino.com/*
 *://*.cciac.org/*
 *://*.ccqczzy.com/*
+*://*.ccsearch.cc/*
 *://*.cctime.com/*
 *://*.cctsuzhou.cn/*
 *://*.cczclc.com/*
@@ -804,6 +805,7 @@
 *://*.cn.sunflowercreations.org/*
 *://*.cn.transcend-info.com/*
 *://*.cn.voidcc.com/*
+*://*.cn.wayzata-homestead-harvest.com/*
 *://*.cn883.com/*
 *://*.cnaijiaren.com/*
 *://*.cnfanrong.com/*
@@ -1731,6 +1733,7 @@
 *://*.jjj.gra-bnoqp.mianfeiwenku.com/*
 *://*.jjjccc.com/*
 *://*.jjsx.com.cn/*
+*://*.jjub.cc/*
 *://*.jk.zhihu.la/*
 *://*.jkyeg.com/*
 *://*.jlytgs.com/*
@@ -2058,6 +2061,7 @@
 *://*.m.s-on-s.com/*
 *://*.m.sbmmt.com/*
 *://*.m.sdfcxw.com/*
+*://*.m.shaoxingby.com/*
 *://*.m.shcuizhong.com/*
 *://*.m.shu74.com/*
 *://*.m.somode.com/*
@@ -2095,6 +2099,7 @@
 *://*.macauticket.com/*
 *://*.machbbs.com/*
 *://*.machididi.com/*
+*://*.maggie-siff.com/*
 *://*.mahu520.com/*
 *://*.mai520.cn/*
 *://*.mamaza.com/*
@@ -2170,6 +2175,7 @@
 *://*.mobaicha.com/*
 *://*.mobans.com/*
 *://*.mobilephoneslive.com/*
+*://*.mobillegends.net/*
 *://*.modb.pro/*
 *://*.moe.am/*
 *://*.mofish.work/*
@@ -2404,6 +2410,7 @@
 *://*.pcgamerbike.com/*
 *://*.pcnow.cc/*
 *://*.pcok100.com/*
+*://*.pcpn.cc/*
 *://*.pctantao.com/*
 *://*.pcworks.cn/*
 *://*.pcxiaobai.com/*
@@ -2921,6 +2928,7 @@
 *://*.t-salon.cc/*
 *://*.t.cj.sina.com.cn/*
 *://*.t.codebug.vip/*
+*://*.t.zoukankan.com/*
 *://*.t38g.com/*
 *://*.t58.tv/*
 *://*.tag.google-info.cn/*
@@ -3038,6 +3046,7 @@
 *://*.tqwba.com/*
 *://*.tracksfree.com/*
 *://*.trampolinfm.cl/*
+*://*.trbethksua.web.app/*
 *://*.tremplin-numerique.org/*
 *://*.trendsshop.cn/*
 *://*.tretars.com/*
@@ -3201,7 +3210,6 @@
 *://*.wap.econ300.com/*
 *://*.wap.fmt2.com/*
 *://*.wap.fwt-zh.com/*
-*://*.wap.gamersky.com/*
 *://*.wap.h4ui.com/*
 *://*.wap.hxsd.com/*
 *://*.wap.pai-hang-bang.com/*
@@ -3235,6 +3243,7 @@
 *://*.weimeiba.com/*
 *://*.weimeicun.com/*
 *://*.weipxiu.com/*
+*://*.weisearch.cc/*
 *://*.weivb.com/*
 *://*.weixineda.com/*
 *://*.weixing-jct.com/*
@@ -3361,8 +3370,10 @@
 *://*.www.amhnn.com/*
 *://*.www.app-good.com/*
 *://*.www.apude.com/*
+*://*.www.astonmartin-hangzhou.com/*
 *://*.www.babyitellyou.com/*
 *://*.www.babylonjs.com.cn/*
+*://*.www.baitv.cc/*
 *://*.www.bajiaoyingshi.com/*
 *://*.www.bashuoshuo.com/*
 *://*.www.bianchengquan.com/*
@@ -3418,6 +3429,7 @@
 *://*.www.eliveint.com/*
 *://*.www.eruditeisland.com/*
 *://*.www.estore-1.com/*
+*://*.www.eternalelectronics.com/*
 *://*.www.extutorial.com/*
 *://*.www.fdf42.com/*
 *://*.www.fdf44.com/*
@@ -3471,6 +3483,7 @@
 *://*.www.muzijie.com/*
 *://*.www.nap6.com/*
 *://*.www.nfrfest.com/*
+*://*.www.nfrmate.com/*
 *://*.www.nogomi.ru/*
 *://*.www.nyzcjc.com/*
 *://*.www.p3yk.com/*
@@ -3486,6 +3499,8 @@
 *://*.www.py5k.com/*
 *://*.www.py5n.com/*
 *://*.www.q578.com/*
+*://*.www.qimowly.com/*
+*://*.www.qinsen-la.com/*
 *://*.www.richesinfo.com.tw/*
 *://*.www.rongyidagl.com/*
 *://*.www.ruipinad.com/*
@@ -3535,6 +3550,7 @@
 *://*.www.ydxpt.com/*
 *://*.www.yingtwo.com/*
 *://*.www.yisu.com/*
+*://*.www.yongnongbiosciences.com/*
 *://*.www.youchuang365.com/*
 *://*.www.ypisoft.esy.es/*
 *://*.www.ytso.com/*
@@ -3572,6 +3588,7 @@
 *://*.xdjwm.com/*
 *://*.xdrn.net/*
 *://*.xdsucai.com/*
+*://*.xdyv.cc/*
 *://*.xgcs98.com/*
 *://*.xhhuanjing.com/*
 *://*.xhuojia.com/*
