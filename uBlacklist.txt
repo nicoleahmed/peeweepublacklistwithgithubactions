@@ -32,6 +32,7 @@
 *://*.0931safe.com/*
 *://*.0937673.info/*
 *://*.0a3q.com/*
+*://*.0szwz.blogsbodasdeisabel.com/*
 *://*.0xzx.com/*
 *://*.100860.com/*
 *://*.100xuexi.com/*
@@ -410,6 +411,7 @@
 *://*.aizhan.com/*
 *://*.aizhanzhe.com/*
 *://*.alia.xlhad.top/*
+*://*.aliciameseguer.es/*
 *://*.alisousou.com/*
 *://*.aliyun.com/sswd/*
 *://*.aliziarealestate.com/*
@@ -481,6 +483,7 @@
 *://*.atwhcb.com/*
 *://*.augep.com/*
 *://*.austrade-ch.com/*
+*://*.autoescuelalaureano.es/*
 *://*.avdll.com/*
 *://*.aviva-trail-de-hyeres.fr/*
 *://*.axihe.com/*
@@ -582,6 +585,7 @@
 *://*.bjwcgh.com/*
 *://*.bjyyqp.com/*
 *://*.bkcmt.com/*
+*://*.bkrk.cc/*
 *://*.bleepcoder.com/*
 *://*.blog.51cto.com/*
 *://*.blog.bccn.net/*
@@ -665,6 +669,7 @@
 *://*.bxegw.com/*
 *://*.bxlac.com/*
 *://*.bxmao.net/*
+*://*.bxtt.cc/*
 *://*.bynss.com/*
 *://*.bypidenver.com/*
 *://*.bzwyl.com/*
@@ -883,9 +888,11 @@
 *://*.ctcea.org/*
 *://*.ctocio.com.cn/*
 *://*.ctolib.com/*
+*://*.ctpn.cc/*
 *://*.ctyyn.com/*
 *://*.cubeproductions.net/*
 *://*.culinarydegree.info/*
+*://*.cumbtwin.hotkar.cl/*
 *://*.cunman.com/*
 *://*.cuoshuo.com/*
 *://*.cuowuwang.com/*
@@ -938,6 +945,7 @@
 *://*.dauc.cc/*
 *://*.dauphinislandcondos.com/*
 *://*.daxuesou.com/*
+*://*.dayb.cc/*
 *://*.daydaynews.cc/*
 *://*.daynews.co/*
 *://*.dayongsp.com/*
@@ -1102,6 +1110,7 @@
 *://*.embasybaby.com/*
 *://*.enchantedauction.com/*
 *://*.energietarieven-vergelijken.com/*
+*://*.enfx.cc/*
 *://*.engineworld.cn/*
 *://*.enkj.com/*
 *://*.enmsb.com/*
@@ -1314,6 +1323,7 @@
 *://*.googleui.com/*
 *://*.googqi.com/*
 *://*.gou-cn.com/*
+*://*.gouhuo.qq.com/*
 *://*.gouma.org/*
 *://*.gouo.cn/*
 *://*.gouye.net/*
@@ -1411,6 +1421,7 @@
 *://*.hdgangqiu.com/*
 *://*.hdnhs.com/*
 *://*.hdnkm.com/*
+*://*.hdto.cc/*
 *://*.he-chuan.com/*
 *://*.health.ettoday.net/*
 *://*.health.people.com.cn/*
@@ -1618,6 +1629,7 @@
 *://*.itectec.com/*
 *://*.iter01.com/*
 *://*.iteramos.com/*
+*://*.itermail.com/*
 *://*.itest.info/*
 *://*.iteye.com/*
 *://*.ithelp.ithome.com.tw/*
@@ -1745,6 +1757,7 @@
 *://*.jnhf888.com/*
 *://*.jnhxkt.com/*
 *://*.jnluhongjs.com/*
+*://*.joanne-kelly.com/*
 *://*.joci.net/*
 *://*.joecomp.com/*
 *://*.joinprojectlove.com/*
@@ -1984,6 +1997,7 @@
 *://*.lxway.net/*
 *://*.ly-sz1y.com/*
 *://*.lychengnuo.com/*
+*://*.lycons.radiotricahues.cl/*
 *://*.lyricagame.com/*
 *://*.lyy57.cn/*
 *://*.lz13.cn/*
@@ -2043,6 +2057,7 @@
 *://*.m.lengfeng.net/*
 *://*.m.lhckds.com/*
 *://*.m.linecg.com/*
+*://*.m.ltcivideos.com/*
 *://*.m.nas-portal.com/*
 *://*.m.ncgdmall.com/*
 *://*.m.newsmth.net/*
@@ -2094,6 +2109,7 @@
 *://*.m.zhicx.com/*
 *://*.m.zhizuobiao.com/*
 *://*.m2017.doyo.cn/*
+*://*.m7kbj.edition-eltern.com/*
 *://*.m7v.org/*
 *://*.macaodaily.com/*
 *://*.macauticket.com/*
@@ -2232,6 +2248,7 @@
 *://*.myhqg.com/*
 *://*.myjjyjh.org/*
 *://*.myqianfengdq.com/*
+*://*.myqqjd.com/*
 *://*.mystiquetanning.com/*
 *://*.mzh.ren/*
 *://*.n00ne.com/*
@@ -2309,6 +2326,7 @@
 *://*.ntustsg.com/*
 *://*.nuomiphp.com/*
 *://*.nutritiontheatre.com/*
+*://*.nv7va.blogsbodasdeisabel.com/*
 *://*.nwuja.com/*
 *://*.nxtoten.com/*
 *://*.nyp655.com/*
@@ -2417,6 +2435,7 @@
 *://*.peiyige.com/*
 *://*.penzai.com/*
 *://*.perfcode.com/*
+*://*.perfectestetic.pl/*
 *://*.persarea.com/*
 *://*.pervalkoje.lt/*
 *://*.pexim.vn/*
@@ -2461,6 +2480,7 @@
 *://*.portlockgalleries.com/*
 *://*.posts.careerengine.us/*
 *://*.ppfocus.com/*
+*://*.ppgc.cc/*
 *://*.pr.akdfj.com/*
 *://*.pretagteam.com/*
 *://*.print-ireland.com/*
@@ -2547,6 +2567,7 @@
 *://*.qiyuanyouxi.com/*
 *://*.qjwb.thehour.cn/*
 *://*.qjzd.net/*
+*://*.qkpp.cc/*
 *://*.qkzh518.com/*
 *://*.qljjgw.com/*
 *://*.qmvdy.com/*
@@ -2581,6 +2602,7 @@
 *://*.qyforum.com/*
 *://*.qyqstore.com/*
 *://*.qzjlw.com/*
+*://*.radawka-apartamenty.pl/*
 *://*.raisingjane.net/*
 *://*.rattaprofid.ee/*
 *://*.rb9q.com/*
@@ -2593,6 +2615,7 @@
 *://*.read678.com/*
 *://*.readercache.com/*
 *://*.reallifetucson.com/*
+*://*.recenja.odszkodowania-kontakt.pl/*
 *://*.reechcare.com/*
 *://*.refertheme.com/*
 *://*.relcare.com.cn/*
@@ -2703,6 +2726,7 @@
 *://*.server.zhiding.cn/*
 *://*.sevdawap.com/*
 *://*.sf291.com/*
+*://*.sg-charpente.fr/*
 *://*.sgongfu.com/*
 *://*.sgrss.com/*
 *://*.sgsou.cc/*
@@ -2765,10 +2789,12 @@
 *://*.simplesend.com/*
 *://*.singletorino.it/*
 *://*.sinoppg.com/*
+*://*.sinwind.elmercaditonacional.cl/*
 *://*.sirdesmonddesilvaqc.com/*
 *://*.sitevalue.net/*
 *://*.sitoreattivo.it/*
 *://*.siwib.org/*
+*://*.sixmondays.com/*
 *://*.sixvfx.com/*
 *://*.sj.itdqs.com/*
 *://*.sj55.org/*
@@ -2810,6 +2836,7 @@
 *://*.so.haowen.org/*
 *://*.so.lcxzs.cn/*
 *://*.so.lkeshangpc.cn/*
+*://*.so.muouseo.com/*
 *://*.so.nalc.com.cn/*
 *://*.so.nshidai.net/*
 *://*.so.sanlou.net/*
@@ -3045,11 +3072,15 @@
 *://*.tqw168.net/*
 *://*.tqwba.com/*
 *://*.tracksfree.com/*
+*://*.tradingocbr.sa.com/*
 *://*.trampolinfm.cl/*
+*://*.trbet10gtena.web.app/*
+*://*.trbet11tlknv.web.app/*
 *://*.trbethksua.web.app/*
 *://*.tremplin-numerique.org/*
 *://*.trendsshop.cn/*
 *://*.tretars.com/*
+*://*.treteat.restaurant-les-oliviers.fr/*
 *://*.trhjxt.com.cn/*
 *://*.triboulet.it/*
 *://*.tricks.one/*
@@ -3128,6 +3159,7 @@
 *://*.v6lr.adnfn.link/*
 *://*.v8wp.com/*
 *://*.valuesfootprint.com/*
+*://*.vc.laarzicht.eu/*
 *://*.vcaaz.com/*
 *://*.vcsos.com/*
 *://*.vehicletagtw.com/*
@@ -3162,6 +3194,7 @@
 *://*.vk-c.net/*
 *://*.vlambda.com/*
 *://*.vnlr.tduaz.top/*
+*://*.vnzx.cc/*
 *://*.voidcc.com/*
 *://*.voidcn.cn/*
 *://*.voidcn.com/*
@@ -3169,6 +3202,7 @@
 *://*.vonkalm.com/*
 *://*.voorp.com/*
 *://*.voycn.com/*
+*://*.vpntwbdmjru.ru.com/*
 *://*.vpsak.com/*
 *://*.vpsman.net/*
 *://*.vpsmm.com/*
@@ -3240,6 +3274,7 @@
 *://*.weibaoju.com/*
 *://*.weibo5i.com/*
 *://*.weiboroom.com/*
+*://*.weifx.cc/*
 *://*.weimeiba.com/*
 *://*.weimeicun.com/*
 *://*.weipxiu.com/*
@@ -3293,6 +3328,7 @@
 *://*.wjxwlr.cn/*
 *://*.wkda.cn/*
 *://*.wkee.net/*
+*://*.wkmm.cc/*
 *://*.wldbs.com/*
 *://*.wldci.com/*
 *://*.wlxgy.com/*
@@ -3390,8 +3426,10 @@
 *://*.www.caihongta.com/*
 *://*.www.canterburyedu.com/*
 *://*.www.carlalucente.com/*
+*://*.www.carptrix.com/*
 *://*.www.castt.ac.cn/*
 *://*.www.catalina.com.cn/*
+*://*.www.ceospacela.com/*
 *://*.www.chabuduoyang.com/*
 *://*.www.changqingw.com/*
 *://*.www.chengcaijjw.com/*
@@ -3420,6 +3458,7 @@
 *://*.www.dgyr.net/*
 *://*.www.djnecn.com/*
 *://*.www.dmozdir.org/*
+*://*.www.dounaite.com/*
 *://*.www.download2me.com/*
 *://*.www.duokanxiaoshuo.com/*
 *://*.www.dvy.com.cn/*
@@ -3464,6 +3503,7 @@
 *://*.www.jsbgp.com/*
 *://*.www.kejisen.com/*
 *://*.www.kocpc.com.tw/*
+*://*.www.kuaipao8.com/*
 *://*.www.kvkft.com/*
 *://*.www.laitimes.com/*
 *://*.www.lccnet.com.tw/*
@@ -3679,6 +3719,7 @@
 *://*.yaoanzx.com/*
 *://*.yaowenming.com/*
 *://*.yataitextile.com/*
+*://*.yatt.cc/*
 *://*.yaxuntx.com/*
 *://*.yayihouse.com/*
 *://*.ybkhw.cn/*
@@ -3755,6 +3796,7 @@
 *://*.youxia.org/*
 *://*.youxizhinancn.com/*
 *://*.youyelishi.com/*
+*://*.ypsug.autoescuelalaureano.es/*
 *://*.yq.aliyun.com/*
 *://*.yqkk.ynzmb.loan/*
 *://*.yqso.cn/*
@@ -3911,9 +3953,11 @@
 *://*.zsharp.org/*
 *://*.zswcn.com/*
 *://*.zsxzjt.cn/*
+*://*.ztpp.cc/*
 *://*.zuiyese.com/*
 *://*.zuoye99.com/*
 *://*.zvazx.link/*
+*://*.zvtt.cc/*
 *://*.zwdu.com/*
 *://*.zx001.com.cn/*
 *://*.zx558.com/*
