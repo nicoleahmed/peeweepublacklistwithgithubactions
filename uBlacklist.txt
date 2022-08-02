@@ -4874,6 +4874,7 @@
 *://websou.cc/*
 *://weekly.pkulaw.cn/*
 *://weiboros4b.cn/*
+*://wenjiangs.com/*
 *://wenkuxiazai.com/*
 *://whofood.net/*
 *://win.zih-lin.com.tw/*
