@@ -4880,6 +4880,7 @@
 *://win.zih-lin.com.tw/*
 *://win10set.com/*
 *://woke.lean5sigma.nl/*
+*://wp-qa.com/*
 *://wsgs.africacook.fr/*
 *://wuvu.secondlifeproducts.nl/*
 *://wve.cvyks.cn/*
