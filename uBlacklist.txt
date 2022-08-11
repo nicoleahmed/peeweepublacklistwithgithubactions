@@ -294,6 +294,7 @@
 *://*.70sf.org/*
 *://*.710dnuv.com/*
 *://*.732722.com/*
+*://*.7372.fun/*
 *://*.7376.fun/*
 *://*.7465hy.com/*
 *://*.75.team/*
@@ -939,6 +940,7 @@
 *://*.daokeyou.top/*
 *://*.dapb.cc/*
 *://*.dapg.cc/*
+*://*.dapingpai.com/*
 *://*.daqianduan.com/*
 *://*.database.51cto.com/*
 *://*.datatables.club/*
@@ -1107,6 +1109,7 @@
 *://*.element-ui.cn/*
 *://*.elfishgene.com/*
 *://*.elianwares.com/*
+*://*.elmercaditonacional.cl/*
 *://*.embasybaby.com/*
 *://*.enchantedauction.com/*
 *://*.energietarieven-vergelijken.com/*
@@ -1162,6 +1165,7 @@
 *://*.farsportswheels.com/*
 *://*.fastso.cn/*
 *://*.fatie.me/*
+*://*.faxlibraryrxmjdm.netlify.app/*
 *://*.fbws.razot.top/*
 *://*.fcaweb.de/*
 *://*.fed123.com/*
@@ -1208,6 +1212,7 @@
 *://*.forenose.com/*
 *://*.forensicpsychologysussex.co.uk/*
 *://*.foreverglory.me/*
+*://*.forevertravel.it/*
 *://*.forum.gamer.com.tw/*
 *://*.forum.opnsense.org/*
 *://*.forum.vi-mm.eu/*
@@ -2175,6 +2180,7 @@
 *://*.millermall.com.tw/*
 *://*.mimeplay.club/*
 *://*.minimidimaxidress.com/*
+*://*.mip.hongniumaoyi.com/*
 *://*.mirgpro.ru/*
 *://*.mississippifaithinaction.org/*
 *://*.misterzeng.com/*
@@ -2916,6 +2922,7 @@
 *://*.stellavingzeinternational.com/*
 *://*.stor.51cto.com/*
 *://*.storewes.com/*
+*://*.stormfilesygioc.za.com/*
 *://*.string.quest/*
 *://*.subversionromance.com/*
 *://*.sucai58.com/*
@@ -3105,6 +3112,7 @@
 *://*.tujour.com/*
 *://*.tukewang.com/*
 *://*.tuokehj.com/*
+*://*.turkbet10mtly.web.app/*
 *://*.tvkrimpenerwaard.nl/*
 *://*.tvnnu.com/*
 *://*.tw.allsaintsetna.org/*
@@ -3359,13 +3367,16 @@
 *://*.ww1.viciousink.net/*
 *://*.wwtw.yeane.top/*
 *://*.www-54197.com/*
+*://*.www.0099011.com/*
 *://*.www.0099033.com/*
 *://*.www.123admin.com/*
 *://*.www.136.la/*
 *://*.www.218407.com/*
+*://*.www.25duo.cn/*
 *://*.www.2832.com.cn/*
 *://*.www.3062.net.cn/*
 *://*.www.34yu.com/*
+*://*.www.35df.cn/*
 *://*.www.35wed.com/*
 *://*.www.365seal.com/*
 *://*.www.3672js.com/*
@@ -3391,10 +3402,12 @@
 *://*.www.6ymw.com/*
 *://*.www.709xs.com/*
 *://*.www.7200500.com/*
+*://*.www.7511156.com/*
 *://*.www.7661551.com/*
 *://*.www.8101010108.cn/*
 *://*.www.818322.com/*
 *://*.www.83xb.cn/*
+*://*.www.8712122.com/*
 *://*.www.88vap.com/*
 *://*.www.92novel.com/*
 *://*.www.985ys.com/*
@@ -3412,6 +3425,7 @@
 *://*.www.baitv.cc/*
 *://*.www.bajiaoyingshi.com/*
 *://*.www.bashuoshuo.com/*
+*://*.www.bduichenb.xyz/*
 *://*.www.bianchengquan.com/*
 *://*.www.bieguolaia.com/*
 *://*.www.biqugeshuwu.com/*
@@ -3474,6 +3488,7 @@
 *://*.www.fdf44.com/*
 *://*.www.fdf45.com/*
 *://*.www.fdf55.com/*
+*://*.www.fdf63.com/*
 *://*.www.gergj.top/*
 *://*.www.geyinban.net/*
 *://*.www.ghcc.net/*
@@ -3558,6 +3573,7 @@
 *://*.www.szbaoshi.com/*
 *://*.www.talex-soft.com/*
 *://*.www.taoguba.com.cn/*
+*://*.www.tee25.com/*
 *://*.www.tjgjly.com/*
 *://*.www.tlyshi.com/*
 *://*.www.tucaozhiyin.com/*
@@ -3598,6 +3614,7 @@
 *://*.www.yzktw.com.cn/*
 *://*.www.zcool.com.cn/*
 *://*.www.zgxue.com/*
+*://*.www.zhiyinxx.xyz/*
 *://*.www.zhuchaoyouxi.com/*
 *://*.www.zx75551.com/*
 *://*.www3.udpdu.com/*
@@ -3873,6 +3890,7 @@
 *://*.zgscxly.com/*
 *://*.zgserver.com/*
 *://*.zh-hant.hotbak.net/*
+*://*.zh.101-help.com/*
 *://*.zh.codepre.com/*
 *://*.zh.info-about.info/*
 *://*.zh.quish.tv/*
