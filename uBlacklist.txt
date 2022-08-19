@@ -4393,6 +4393,7 @@
 *://dsyzmn.icu/*
 *://dt.pckoubei.cn/*
 *://dttm.culirex.nl/*
+*://dtuto.com/*
 *://e8fenf.biz/*
 *://easylife.tw/*
 *://educar-bus.cl/*
@@ -4982,6 +4983,7 @@
 *://www.anycodings.com/*
 *://www.aphhh.com/*
 *://www.app-good.com/*
+*://www.appsloveworld.com/*
 *://www.arhivo.com/*
 *://www.armgs.com/*
 *://www.artez.org.cn/*
@@ -5275,6 +5277,7 @@
 *://www.qrdb8.com/*
 *://www.qsxi.com/*
 *://www.qu02.com/*
+*://www.querythreads.com/*
 *://www.quhuomkh.com/*
 *://www.racsgroupjobs.com/*
 *://www.raincent.com/*
