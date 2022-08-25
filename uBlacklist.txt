@@ -4535,6 +4535,7 @@
 *://iquestion.pro/*
 *://isolution.pro/*
 *://issueexplorer.com/*
+*://issuehint.com/*
 *://issuehunt.io/*
 *://it.ping-jia.net/*
 *://it889.com/*
