@@ -4945,6 +4945,7 @@
 *://wap.zbfeuk.xyz/*
 *://wap.zol.com.cn/*
 *://web.xkyn.net/*
+*://webdevask.com/*
 *://webdevdesigner.com/*
 *://websou.cc/*
 *://weekly.pkulaw.cn/*
