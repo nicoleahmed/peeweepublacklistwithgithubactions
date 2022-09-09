@@ -22,3 +22,6 @@
 [submodule "vendor/venjek/Google-Blocklist"]
 	path = vendor/venjek/Google-Blocklist
 	url = git@github.com:venjek/Google-Blocklist.git
+[submodule "vendor/entr0pia/No-other-Search-in-Google-Search"]
+	path = vendor/entr0pia/No-other-Search-in-Google-Search
+	url = https://github.com/entr0pia/No-other-Search-in-Google-Search.git
