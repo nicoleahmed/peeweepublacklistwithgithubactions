@@ -510,8 +510,10 @@
 *://*.baidu.com.se/*
 *://*.baidu.com.swd1rsv_spt1rsv_iqid.1234on.com/*
 *://*.baidu.com.txzer.com/*
+*://*.baidu.com/from=*/ssid=*/s?word=*
 *://*.baidu.com/s?word=*
 *://*.baidu.com/search?word=*
+*://*.baidu.com/sf/vsearch?pd=*
 *://*.baidu.fileso.com/*
 *://*.baidu.mx/*
 *://*.baidu.seo-taiwan.com/*
@@ -1713,6 +1715,8 @@
 *://*.jcdi.cn/*
 *://*.jcodecraeer.com/*
 *://*.jcwkkj.com/*
+*://*.jd.com/*/Search?keyword=*
+*://*.jd.com/Search?keyword=*
 *://*.jecal.it/*
 *://*.jeepshoe.net/*
 *://*.jeepxie.net/*
@@ -3129,6 +3133,7 @@
 *://*.ttxianyu.com/*
 *://*.ttyshi.com/*
 *://*.tuicool.com/*
+*://*.tuitaow.com/search/*
 *://*.tujour.com/*
 *://*.tukewang.com/*
 *://*.tuokehj.com/*
@@ -3779,6 +3784,7 @@
 *://*.xz577.com/*
 *://*.xzhetdq.com/*
 *://*.xzzflower.com/*
+*://*.yahoo.com/*/search?p=*
 *://*.yamamah.net/*
 *://*.yamibo.com/*
 *://*.yanapozarin.com/*
@@ -3808,6 +3814,7 @@
 *://*.yfstone.net/*
 *://*.yfytw.com/*
 *://*.yggx.net/*
+*://*.yhqyhq.com/search/*
 *://*.yht7.com/*
 *://*.yibinyd.com/*
 *://*.yichao77.com/*
@@ -3960,6 +3967,7 @@
 *://*.zhaofupo8.com/*
 *://*.zhaolonglvye.com/*
 *://*.zhaozhuji.com/*
+*://*.zhe23.com/search/*
 *://*.zhenchuyuan.com/*
 *://*.zhengrongshuo.com/*
 *://*.zhengwangsuye.com/*
@@ -4060,6 +4068,10 @@
 *://*/cha.php?s=*
 *://*/gongju/*
 *://*/list.php?s=*
+*://*/s.php?q=*
+*://*/search/super.html?*
+*://*/search?keyword=*
+*://*/searchArticle?qc=*
 *://*/so.php
 *://*/so.php?s=*
 *://*/so/*
@@ -4399,6 +4411,7 @@
 *://ch62g.gshjmy.icu/*
 *://china-hetian.com/*
 *://chirdeo.com/*
+*://chsou.cc/*
 *://ci52.com/*
 *://citizen.com.cn/*
 *://city.zhuaizong.cn/*
@@ -4718,9 +4731,11 @@
 *://macaodaily.com/*
 *://machbbs.com/*
 *://manyanu.com/*
+*://map.baidu.com/search/*
 *://max.book118.com/*
 *://mayibanchang.com.cn/*
 *://mefpyw.xyz/*
+*://meisearch.cc/*
 *://mhly818.com/*
 *://microeducate.tech/*
 *://midmodi.com/*
@@ -4850,7 +4865,9 @@
 *://sanvicenteasociados.com/*
 *://sayyiv.com/*
 *://sctyvc.com/*
+*://search.bilibili.com/*
 *://search.books.com.tw/*
+*://search.suning.com/*
 *://search.zonealarm.com/*
 *://seekplay.online/*
 *://seigler.kor-trade.ru/*
@@ -4865,10 +4882,12 @@
 *://sm.cn.shenma7786.com/*
 *://so.cnwuye.com/*
 *://so.gamersky.com/*
+*://so.ixigua.com/*
 *://so.muouseo.com/*
 *://softwarebrother.com/*
 *://sogaweb.com/*
 *://solveforum.com/*
+*://souquan.cc/*
 *://ssgold9999.com/*
 *://stackfinder.jp.net/*
 *://stackguides.com/*
@@ -4909,6 +4928,7 @@
 *://uu.315359.vip/*
 *://uu2ks.ylsb888.cn/*
 *://uu9xa.wpair.cn/*
+*://v.qq.com/x/search/?q=*
 *://v66hh.csqfmh.icu/*
 *://v89h6.bsjgmz.icu/*
 *://vejiany.com/*
@@ -5211,6 +5231,7 @@
 *://www.iteye.com/*
 *://www.itranslater.com/*
 *://www.ixieme.com/*
+*://www.ixigua.com/search/*
 *://www.jamesandlydia.com/*
 *://www.javaer101.com/*
 *://www.javafixing.com/*
@@ -5243,6 +5264,7 @@
 *://www.kaitao.cn/*
 *://www.kancloud.cn/*
 *://www.kangongzuo.com/*
+*://www.kerwin.cn/dl?query=*
 *://www.khicho.com/*
 *://www.kia-4sd.com/*
 *://www.king-yan.com/*
@@ -5444,6 +5466,7 @@
 *://www.wqwfgg.com/*
 *://www.wukong.com/*
 *://www.wuyoutao.net/*
+*://www.wuzhuiso.com/*
 *://www.wwpgd.com/*
 *://www.wzmjw.com/*
 *://www.xctiku.com/*
@@ -5553,5 +5576,6 @@ title/.* - 小.(百科|知识)网/
 title/.*一键访问国外网站/
 title/.*点击一次就可以出国/
 title/^.*[ ]-[ ]小.(百科|知识)网$/
+title/^.*[ ]?-[ ]?.{1,4}(Sou|搜|Search)$/
 title/^小.(百科|知识)网$/
 title/小.(百科|知识)网/
