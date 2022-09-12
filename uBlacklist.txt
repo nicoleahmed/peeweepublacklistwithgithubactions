@@ -4432,6 +4432,7 @@
 *://coder-solution-es.com/*
 *://coderedirect.com/*
 *://coderoad.ru/*
+*://codesti.com/*
 *://colombogazette.com/*
 *://convi.ecmij0.us/*
 *://covenantirrigation.com/*
@@ -4550,7 +4551,7 @@
 *://intellipaat.com/*
 *://iquestion.pro/*
 *://isolution.pro/*
-*://issueexplorer.com/*
+*://issueantenna.com/*
 *://issuehint.com/*
 *://issuehunt.io/*
 *://it.ping-jia.net/*
@@ -4577,6 +4578,7 @@
 *://k5sk5.331786.vip/*
 *://k9.toyechina.cn/*
 *://kaicen.cn/*
+*://kandi.openweaver.com/*
 *://kfas.cm6h.cn/*
 *://kgg60.gkf622.icu/*
 *://knews.vip/*
