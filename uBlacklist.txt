@@ -4382,6 +4382,7 @@
 *://bendix.net/*
 *://bestofcpp.com/*
 *://bestofphp.com/*
+*://bestrustcrates.com/*
 *://bilisong.com/*
 *://bleepcoder.com/*
 *://blog.nailsalon-mr.com/*
@@ -4436,6 +4437,7 @@
 *://covenantirrigation.com/*
 *://cph100.com/*
 *://cs43704-wordpress-1.tw1.ru/*
+*://curatedgo.com/*
 *://cv8hkk.lscqmd.icu/*
 *://cvch2h.dspfmt.icu/*
 *://cvvg8.hkh717.icu/*
@@ -4500,6 +4502,7 @@
 *://gfykd.shop/*
 *://gg09.dkh917.icu/*
 *://gitanswer.com/*
+*://gitanswer.net/*
 *://giters.com/*
 *://github.innominds.com/*
 *://githubhelp.com/*
@@ -4857,6 +4860,7 @@
 *://rkbsood.com/*
 *://roov.org/*
 *://routinepanic.com/*
+*://rustrepo.com/*
 *://s-678.com/*
 *://s.nongjia888.com/*
 *://s.weibo.com/*
