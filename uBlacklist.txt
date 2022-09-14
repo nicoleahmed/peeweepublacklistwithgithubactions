@@ -5473,6 +5473,7 @@
 *://www.tbhj.net/*
 *://www.technipchina.com/*
 *://www.tesbzh.com/*
+*://www.thecodeteacher.com/*
 *://www.thepinoybigblogger.com/*
 *://www.timesgroup.cn/*
 *://www.titanwolf.org/*
