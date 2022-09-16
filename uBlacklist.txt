@@ -4607,6 +4607,7 @@
 *://iquestion.pro/*
 *://isolution.pro/*
 *://issueantenna.com/*
+*://issuecloser.com/*
 *://issuehint.com/*
 *://issuehunt.io/*
 *://it.ping-jia.net/*
