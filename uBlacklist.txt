@@ -4488,6 +4488,7 @@
 *://coderedirect.com/*
 *://coderoad.ru/*
 *://codesti.com/*
+*://codeutility.org/*
 *://colombogazette.com/*
 *://convi.ecmij0.us/*
 *://covenantirrigation.com/*
@@ -4968,6 +4969,7 @@
 *://tag.todohealth.com/*
 *://tagsqa.com/*
 *://techhelpnotes.com/*
+*://techinplanet.com/*
 *://tgshenghe.com/*
 *://theater.jon-rey.com/*
 *://thinkinsource.com/*
