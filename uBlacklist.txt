@@ -4952,6 +4952,7 @@
 *://sogaweb.com/*
 *://solveforum.com/*
 *://souquan.cc/*
+*://splunktool.com/*
 *://ssgold9999.com/*
 *://stackfinder.jp.net/*
 *://stackguides.com/*
