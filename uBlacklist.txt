@@ -2718,7 +2718,6 @@
 *://*.s5t.com/*
 *://*.sadyr.party/*
 *://*.saerim.net/*
-*://*.safehavenpetrescue.org/*
 *://*.safewos.com/*
 *://*.sagson.ru/*
 *://*.sailoft.celtrans-przewozy.eu/*
@@ -4509,6 +4508,7 @@
 *://de-vraag.com/*
 *://devdreamz.com/*
 *://developer.aliyun.com/article/*
+*://devfixes.com/*
 *://dhzls.fmtvsat.com/*
 *://diannaoshiyong.com/*
 *://digitrain.ru/*
@@ -4541,6 +4541,7 @@
 *://fkgvsu.951779.vip/*
 *://flutterhq.com/*
 *://flyzyblog.com/*
+*://fmihm.org/*
 *://freetribe.me/*
 *://ftll.libelluladepressa.nl/*
 *://fullstackuser.com/*
@@ -4916,7 +4917,6 @@
 *://questu.ru/*
 *://qyhr.uk.com/*
 *://read678.com/*
-*://reddit.fun/*
 *://reposhub.com/*
 *://rkbsood.com/*
 *://roov.org/*
@@ -4963,6 +4963,7 @@
 *://store.argoyachtclub.com.tw/*
 *://streamroll.ukaty.ru/*
 *://string.quest/*
+*://super-unix.com/*
 *://support.huaweicloud.com/topic/*
 *://sxcntv.com/*
 *://syntaxfix.com/*
@@ -4986,6 +4987,7 @@
 *://ubnnkl.xyz/*
 *://ubuntu.buildwebhost.com/*
 *://ubuntuaa.com/*
+*://ubuntubin.com/*
 *://umnc.org/*
 *://unao.baasglutenvrij.nl/*
 *://uqu.tmpdqc.cn/*
@@ -5506,6 +5508,7 @@
 *://www.uxahz.com/*
 *://www.vteam100.com/*
 *://www.w8rt.com/*
+*://www.wake-up-neo.net/*
 *://www.wangluos.com/*
 *://www.wanyx.com/*
 *://www.wbelp.com/*
