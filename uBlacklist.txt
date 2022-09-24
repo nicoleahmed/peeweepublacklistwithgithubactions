@@ -4530,6 +4530,7 @@
 *://epaper.mrjjxw.com/*
 *://erof.icu/*
 *://errorsfixing.com/*
+*://etsoutdoors.com/*
 *://eutorxgol.web.app/*
 *://exchangetuts.com/*
 *://f19khj.565875.vip/*
@@ -4627,7 +4628,6 @@
 *://jiankang.pai-hang-bang.cn/*
 *://jiul.vane-vis.nl/*
 *://jordan7sweater.com/*
-*://jpdebug.com/*
 *://jrccn.cn/*
 *://jrcxw.com/*
 *://juweibangong.com/*
@@ -5008,6 +5008,7 @@
 *://vultrcn2.com/*
 *://vylp.hometechparts.nl/*
 *://w10zj.com/*
+*://waldorf-am-see.org/*
 *://wantubizhi.com/*
 *://wap.54vl.com/*
 *://wap.7u8vx.biz/*
@@ -5342,7 +5343,6 @@
 *://www.kvkft.com/*
 *://www.kxxzz.com/*
 *://www.lcyacg.com/*
-*://www.learnfk.com/*
 *://www.led-e14.com/*
 *://www.lgljia.com/*
 *://www.lianhongfri.com/*
