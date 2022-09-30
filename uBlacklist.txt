@@ -5469,6 +5469,7 @@
 *://www.sldfc.cn/*
 *://www.sodeog.com/*
 *://www.stackfinder.ru/*
+*://www.stackubuntu.com/*
 *://www.storm.mg/*
 *://www.studynb1.com/*
 *://www.superclubs.com.cn/*
