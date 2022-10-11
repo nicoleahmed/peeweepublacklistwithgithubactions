@@ -4414,6 +4414,7 @@
 *://bestofphp.com/*
 *://bestrustcrates.com/*
 *://bilisong.com/*
+*://bitcoden.com/*
 *://bleepcoder.com/*
 *://blog.nailsalon-mr.com/*
 *://blueorange-mediaservice.com/*
