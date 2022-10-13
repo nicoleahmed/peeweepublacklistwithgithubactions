@@ -4543,6 +4543,7 @@
 *://githubmate.com/*
 *://githubmemory.com/*
 *://githubplus.com/*
+*://githubrecord.com/*
 *://gitmemory.cn/*
 *://gk0k6.fkg235.icu/*
 *://gkgvq.728981.vip/*
@@ -4617,6 +4618,7 @@
 *://kuaijiezhinan.com/*
 *://laruva.com/*
 *://lccfs.com/*
+*://lightrun.com/*
 *://living-sun.com/*
 *://m.04-job.com/*
 *://m.152598.689292.vip/*
