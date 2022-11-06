@@ -4458,7 +4458,6 @@
 *://codecocoa.com/*
 *://codegrepr.com/*
 *://codeguides.site/*
-*://coder-solution-es.com/*
 *://coder.gay/*
 *://coderoad.ru/*
 *://codesti.com/*
@@ -4613,7 +4612,6 @@
 *://kandi.openweaver.com/*
 *://kfas.cm6h.cn/*
 *://kgg60.gkf622.icu/*
-*://knews.vip/*
 *://kotaeta.com/*
 *://ktxh8.com/*
 *://kuaijiezhinan.com/*
@@ -4907,7 +4905,6 @@
 *://search.zonealarm.com/*
 *://seekplay.online/*
 *://seigler.kor-trade.ru/*
-*://serveanswer.com/*
 *://share.wukongwenda.cn/*
 *://shenghuobao.net/*
 *://shengqian001.com/*
@@ -4937,13 +4934,11 @@
 *://support.huaweicloud.com/topic/*
 *://sxcntv.com/*
 *://syntaxfix.com/*
-*://sysadminde.com/*
 *://syslyl.com/*
 *://syy37.com/*
 *://tag.todohealth.com/*
 *://tagsqa.com/*
 *://techhelpnotes.com/*
-*://techinplanet.com/*
 *://tgshenghe.com/*
 *://theater.jon-rey.com/*
 *://thinkinsource.com/*
@@ -5262,13 +5257,11 @@
 *://www.i5u.onzlc.cn/*
 *://www.instilsoft.com/*
 *://www.iruixun.cn/*
-*://www.it-roy-ru.com/*
 *://www.it-swarm-fr.com/*
 *://www.it-swarm-ja.com/*
 *://www.it-swarm-ja.tech/*
 *://www.it-swarm.jp.net/*
 *://www.iteye.com/*
-*://www.itranslater.com/*
 *://www.ixieme.com/*
 *://www.ixigua.com/search/*
 *://www.jamesandlydia.com/*
@@ -5438,7 +5431,6 @@
 *://www.sldfc.cn/*
 *://www.sodeog.com/*
 *://www.stackfinder.ru/*
-*://www.stackubuntu.com/*
 *://www.storm.mg/*
 *://www.studynb1.com/*
 *://www.superclubs.com.cn/*
@@ -5522,7 +5514,6 @@
 *://www.xiyousu.com/*
 *://www.xjyf.uk.com/*
 *://www.xleiso.com/*
-*://www.xsprogram.com/*
 *://www.xunii.com/*
 *://www.xvidios-porn.com/*
 *://www.yaoshifo.org/*
