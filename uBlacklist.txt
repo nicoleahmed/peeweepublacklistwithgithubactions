@@ -4589,6 +4589,7 @@
 *://it.ping-jia.net/*
 *://it889.com/*
 *://itecnote.com/*
+*://itecnotes.com/*
 *://itectec.com/*
 *://ivyyyyyyyypapapa.lofter.com/*
 *://ixii.cc/*
