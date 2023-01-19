@@ -4783,9 +4783,9 @@
 *://kandi.openweaver.com/*
 *://kfas.cm6h.cn/*
 *://kgg60.gkf622.icu/*
-*://kotaeta.com/*
 *://ktxh8.com/*
 *://kuaijiezhinan.com/*
+*://kzen.dev/*
 *://laruva.com/*
 *://lccfs.com/*
 *://lightrun.com/*
@@ -5601,6 +5601,7 @@
 *://www.skype-keishin.buzz/*
 *://www.sldfc.cn/*
 *://www.sodeog.com/*
+*://www.solveforum.com/*
 *://www.stackfinder.ru/*
 *://www.storm.mg/*
 *://www.studynb1.com/*
