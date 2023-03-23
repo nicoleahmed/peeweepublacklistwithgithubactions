@@ -2332,6 +2332,7 @@
 *://*.msd.misuland.com/*
 *://*.msfxt.com/*
 *://*.msldg.com/*
+*://*.msnack.de/*
 *://*.mssou.cc/*
 *://*.msudz.com/*
 *://*.mt-v.com/*
