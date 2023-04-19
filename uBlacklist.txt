@@ -5330,6 +5330,7 @@
 *://www.dm4mm.com/*
 *://www.dmfuns.com/*
 *://www.dofe.com.cn/*
+*://www.douyin.com/search/*
 *://www.doverchina.com/*
 *://www.downos.com/*
 *://www.drpneu.com/*
