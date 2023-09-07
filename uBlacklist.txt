@@ -4763,6 +4763,7 @@
 *://jrccn.cn/*
 *://jrcxw.com/*
 *://jtuto.com/*
+*://juejin.cn/s/*
 *://juweibangong.com/*
 *://jzhcgm.com/*
 *://jzxwsy.com/*
