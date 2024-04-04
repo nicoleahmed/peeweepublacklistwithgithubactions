@@ -1,0 +1,2 @@
+*://*.volcengine.com/*
+*://*.github-zh.com/*
