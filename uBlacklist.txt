@@ -1366,6 +1366,7 @@
 *://*.gionee.com/*
 *://*.giters.com/*
 *://*.github-wiki-see.page/*
+*://*.github-zh.com/*
 *://*.githubhelp.com/*
 *://*.githubmemory.com/*
 *://*.gitmemory.cn/*
@@ -3338,6 +3339,7 @@
 *://*.voidcc.com/*
 *://*.voidcn.cn/*
 *://*.voidcn.com/*
+*://*.volcengine.com/*
 *://*.voltep34.ru/*
 *://*.vonkalm.com/*
 *://*.voorp.com/*
