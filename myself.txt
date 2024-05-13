@@ -1,2 +1,8 @@
+*://*.collegesidekick.com/*
+*://*.kokgog.com/*
+*://*.hostprefer.com/*
+*://*.kvx.me/*
+*://*.mjj.cm/*
+*://*.mjjshare.com/*
 *://*.volcengine.com/*
 *://*.github-zh.com/*
