@@ -900,6 +900,7 @@
 *://*.codycn.com/*
 *://*.colabug.com/*
 *://*.colibrisoft.pl/*
+*://*.collegesidekick.com/*
 *://*.com.sinoextruder.net.cn/*
 *://*.communities.bentley.com/*
 *://*.community.fs.com/*
@@ -1570,6 +1571,7 @@
 *://*.honi.sif-et-loki.com/*
 *://*.hoosoo.cc/*
 *://*.horecapolis.info/*
+*://*.hostprefer.com/*
 *://*.hostzxw.com/*
 *://*.hotbak.net/*
 *://*.hovertree.com/*
@@ -1937,6 +1939,7 @@
 *://*.kma5.com/*
 *://*.kmanong.top/*
 *://*.koganeisyobou.live/*
+*://*.kokgog.com/*
 *://*.kokojia.com/*
 *://*.kol.cn/*
 *://*.koubeiblog.com/*
@@ -1967,6 +1970,7 @@
 *://*.kushibar.com.tw/*
 *://*.kutu66.com/*
 *://*.kvkft.com/*
+*://*.kvx.me/*
 *://*.kx0823.com/*
 *://*.kxwo.com/*
 *://*.kxxzz.com/*
@@ -2291,7 +2295,9 @@
 *://*.misterzeng.com/*
 *://*.mitchsmotorcycles.com/*
 *://*.mittagongmultimedia.com/*
+*://*.mjj.cm/*
 *://*.mjjcpu.com/*
+*://*.mjjshare.com/*
 *://*.mjzj.com/*
 *://*.mk2048.com/*
 *://*.mlink.in/*
