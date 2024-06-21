@@ -1,8 +1,9 @@
+*://cloud.baidu.com/article/*
 *://*.collegesidekick.com/*
-*://*.kokgog.com/*
+*://*.github-zh.com/*
 *://*.hostprefer.com/*
+*://*.kokgog.com/*
 *://*.kvx.me/*
 *://*.mjj.cm/*
 *://*.mjjshare.com/*
 *://*.volcengine.com/*
-*://*.github-zh.com/*
