@@ -4622,6 +4622,7 @@
 *://citizen.com.cn/*
 *://city.zhuaizong.cn/*
 *://ck0gk6.hky279.icu/*
+*://cloud.baidu.com/article/*
 *://cloud.tencent.com/developer/*
 *://cloud.tencent.com/developer/article/*
 *://cloud.tencent.com/developer/ask/*
