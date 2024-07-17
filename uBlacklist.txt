@@ -4772,6 +4772,7 @@
 *://jrccn.cn/*
 *://jrcxw.com/*
 *://jtuto.com/*
+*://juejin.cn/*
 *://juejin.cn/s/*
 *://juweibangong.com/*
 *://jzhcgm.com/*
