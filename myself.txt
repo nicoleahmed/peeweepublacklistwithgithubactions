@@ -2,6 +2,7 @@
 *://*.collegesidekick.com/*
 *://*.github-zh.com/*
 *://*.hostprefer.com/*
+*://juejin.cn/*
 *://*.kokgog.com/*
 *://*.kvx.me/*
 *://*.mjj.cm/*
