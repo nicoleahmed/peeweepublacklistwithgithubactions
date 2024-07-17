@@ -9,9 +9,11 @@ on:
 jobs:
   Generator:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         with:
           submodules: recursive
 
@@ -28,9 +30,4 @@ jobs:
           if [[ $(git diff HEAD uBlacklist.txt) ]]; then
             git commit -m "Update uBlacklist.txt" -a
           fi
-
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: ${{ github.ref }}
+          git push
