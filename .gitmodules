@@ -25,3 +25,9 @@
 [submodule "vendor/entr0pia/No-other-Search-in-Google-Search"]
 	path = vendor/entr0pia/No-other-Search-in-Google-Search
 	url = https://github.com/entr0pia/No-other-Search-in-Google-Search.git
+[submodule "vendor/Paxxs/Google-Blocklist"]
+	path = vendor/Paxxs/Google-Blocklist
+	url = https://github.com/Paxxs/Google-Blocklist.git
+[submodule "wdmpa/content-farm-list"]
+	path = vendor/wdmpa/content-farm-list
+	url = https://github.com/wdmpa/content-farm-list.git
