@@ -1,5 +1,6 @@
 *://cloud.baidu.com/article/*
 *://*.collegesidekick.com/*
+*://*.dongaigc.com/*
 *://*.github-zh.com/*
 *://*.hostprefer.com/*
 *://juejin.cn/*
