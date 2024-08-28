@@ -3212,6 +3212,7 @@
 *://*.domy365.com/*
 *://*.don-mar.buzz/*
 *://*.donbban.com.cn/*
+*://*.dongaigc.com/*
 *://*.dongchangmotors.buzz/*
 *://*.dongdaima.com/*
 *://*.dongfangeb.com/*
