@@ -3,6 +3,7 @@
 *://*.dongaigc.com/*
 *://*.github-zh.com/*
 *://*.hostprefer.com/*
+*://*.issuehunt.io/*
 *://juejin.cn/*
 *://*.kokgog.com/*
 *://*.kvx.me/*
