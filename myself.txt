@@ -9,6 +9,6 @@
 *://*.kvx.me/*
 *://*.mjj.cm/*
 *://*.mjjshare.com/*
+*://*.msnack.de/*
 *://*.volcengine.com/*
 *://wenjiangs.com/*
-*://*.msnack.de/*
