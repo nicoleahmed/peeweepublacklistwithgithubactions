@@ -1,4 +1,4 @@
-! Update weekly at 2024-08-25 08:41:03 +0800
+! Update weekly at 2024-09-01 08:46:40 +0800
 *:/*.jimowang.com/*
 *://*.00000258.com/*
 *://*.0001113.com/*
@@ -39368,6 +39368,7 @@
 *://*.issue.life/*
 *://*.issueexplorer.com/*
 *://*.issuehub.io/*
+*://*.issuehunt.io/*
 *://*.issuu.com/*
 *://*.ist-idea.com/*
 *://*.istaiguo.com/*
