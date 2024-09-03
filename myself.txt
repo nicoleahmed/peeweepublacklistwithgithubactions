@@ -10,3 +10,5 @@
 *://*.mjj.cm/*
 *://*.mjjshare.com/*
 *://*.volcengine.com/*
+*://wenjiangs.com/*
+*://*.msnack.de/*

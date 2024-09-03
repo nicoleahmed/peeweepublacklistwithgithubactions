@@ -31,6 +31,3 @@
 [submodule "wdmpa/content-farm-list"]
 	path = vendor/wdmpa/content-farm-list
 	url = https://github.com/wdmpa/content-farm-list.git
-[submodule "vendor/eallion/uBlacklist-subscription-compilation"]
-	path = vendor/eallion/uBlacklist-subscription-compilation
-	url = https://github.com/eallion/uBlacklist-subscription-compilation.git
