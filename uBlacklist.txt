@@ -9530,6 +9530,7 @@
 *://*.wenda.jikexueyuan.com/*
 *://*.wenda123.org/*
 *://*.wenduyun.com/*
+*://*.wenjiangs.com/*
 *://*.wenku1.com/*
 *://*.wenlongkm.com/*
 *://*.wenshanok.com/*
@@ -11826,7 +11827,7 @@
 *://jrccn.cn/*
 *://jrcxw.com/*
 *://jtuto.com/*
-*://juejin.cn/*
+*://juejin.cn/post/*
 *://juejin.cn/s/*
 *://juweibangong.com/*
 *://jzhcgm.com/*
