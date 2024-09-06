@@ -5420,6 +5420,7 @@
 *://*.jtzt5oy.cn/*
 *://*.ju8sq.com/*
 *://*.judongneng.com/*
+*://*.juejin.cn/*
 *://*.juejin.cn/s/*
 *://*.jukangsw.com/*
 *://*.julx.cn/*
@@ -11827,7 +11828,7 @@
 *://jrccn.cn/*
 *://jrcxw.com/*
 *://jtuto.com/*
-*://juejin.cn/post/*
+*://juejin.cn/*
 *://juejin.cn/s/*
 *://juweibangong.com/*
 *://jzhcgm.com/*
@@ -12454,6 +12455,7 @@
 *://www.gmz88.com/*
 *://www.gobabl.com/*
 *://www.gongzhulingxg75.com/*
+*://www.google.com/mymaps/*
 *://www.gu8.cc/*
 *://www.gupiao65.com/*
 *://www.gyubi.com/*
