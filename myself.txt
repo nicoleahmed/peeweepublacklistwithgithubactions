@@ -4,11 +4,11 @@
 *://*.github-zh.com/*
 *://*.hostprefer.com/*
 *://*.issuehunt.io/*
-*://juejin.cn/*
+*://juejin.cn/post/*
 *://*.kokgog.com/*
 *://*.kvx.me/*
 *://*.mjj.cm/*
 *://*.mjjshare.com/*
 *://*.msnack.de/*
 *://*.volcengine.com/*
-*://wenjiangs.com/*
+*://*.wenjiangs.com/*
