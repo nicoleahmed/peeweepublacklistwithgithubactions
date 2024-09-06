@@ -4,7 +4,7 @@
 *://*.github-zh.com/*
 *://*.hostprefer.com/*
 *://*.issuehunt.io/*
-*://juejin.cn/post/*
+*://juejin.cn/*
 *://*.kokgog.com/*
 *://*.kvx.me/*
 *://*.mjj.cm/*
@@ -12,3 +12,4 @@
 *://*.msnack.de/*
 *://*.volcengine.com/*
 *://*.wenjiangs.com/*
+*://www.google.com/mymaps/*
