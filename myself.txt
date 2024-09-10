@@ -2,6 +2,7 @@
 *://*.collegesidekick.com/*
 *://*.dongaigc.com/*
 *://*.github-zh.com/*
+*://hostloc.me/*
 *://*.hostprefer.com/*
 *://*.issuehunt.io/*
 *://*.juejin.cn/*
